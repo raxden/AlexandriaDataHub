@@ -16,12 +16,26 @@ jobs:
       countries: ${{ steps.get-countries.outputs.countries }}
     
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+      
+      - name: Create directory structure
+        run: mkdir -p radio
+      
       - name: Fetch countries from API
         id: get-countries
         run: |
           response=$(curl -s "http://de1.api.radio-browser.info/json/countries")
           countries=$(echo "$response" | jq -c '[.[] | .iso_3166_1]')
           echo "countries=$countries" >> $GITHUB_OUTPUT
+          echo "$response" > radio/countries
+      
+      - name: Upload countries artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: countries-data
+          path: radio/countries
+          retention-days: 1
 
   download-stations:
     name: Download Stations
@@ -42,14 +56,19 @@ jobs:
       
       - name: Download stations for ${{ matrix.country }}
         run: |
+          country_lower=$(echo "${{ matrix.country }}" | tr '[:upper:]' '[:lower:]')
           curl -s "https://de1.api.radio-browser.info/json/stations/bycountrycodeexact/${{ matrix.country }}" \
-            -o "radio/stations/bycountry/${{ matrix.country }}.json"
+            -o "radio/stations/bycountry/${country_lower}"
       
       - name: Upload artifact
-        uses: actions/upload-artifact@v4
+        run: |
+          country_lower=$(echo "${{ matrix.country }}" | tr '[:upper:]' '[:lower:]')
+          echo "country_lower=${country_lower}" >> $GITHUB_ENV
+      
+      - uses: actions/upload-artifact@v4
         with:
-          name: stations-${{ matrix.country }}
-          path: radio/stations/bycountry/${{ matrix.country }}.json
+          name: stations-${{ env.country_lower }}
+          path: radio/stations/bycountry/${{ env.country_lower }}
           retention-days: 1
 
   commit-changes:
@@ -64,7 +83,13 @@ jobs:
       - name: Create directory structure
         run: mkdir -p radio/stations/bycountry
       
-      - name: Download all artifacts
+      - name: Download countries artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: countries-data
+          path: radio
+      
+      - name: Download all station artifacts
         uses: actions/download-artifact@v4
         with:
           path: artifacts
@@ -72,7 +97,7 @@ jobs:
       
       - name: Move files to correct location
         run: |
-          find artifacts -name "*.json" -exec mv {} radio/stations/bycountry/ \;
+          find artifacts -type f ! -name ".*" -exec mv {} radio/stations/bycountry/ \;
       
       - name: Configure Git
         run: |
@@ -81,10 +106,10 @@ jobs:
       
       - name: Commit and push changes
         run: |
-          git add radio/stations/bycountry/*.json
+          git add radio/
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Update radio stations data"
+            git commit -m "Update radio stations and countries data"
             git push
           fi
