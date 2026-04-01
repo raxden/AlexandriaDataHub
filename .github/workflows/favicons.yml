@@ -1,20 +1,41 @@
-name: Radio Favicons Processor
+name: Radio Favicons Sync
 
 on:
+  schedule:
+    # Run every 3 months (1st day of Jan, Apr, Jul, Oct at midnight)
+    - cron: '0 0 1 1,4,7,10 *'
   workflow_dispatch:
-    inputs:
-      countryCode:
-        description: 'Country code (e.g., ES, US, GB)'
-        required: true
-        type: string
 
 permissions:
   contents: write
 
 jobs:
-  process-favicons:
-    name: Process Favicons for ${{ inputs.countryCode }}
+  fetch-countries:
+    name: Fetch Countries
     runs-on: ubuntu-latest
+    outputs:
+      countries: ${{ steps.get-countries.outputs.countries }}
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+      
+      - name: Fetch countries from API
+        id: get-countries
+        run: |
+          response=$(curl -s "http://de1.api.radio-browser.info/json/countries")
+          countries=$(echo "$response" | jq -c '[.[] | .iso_3166_1]')
+          echo "countries=$countries" >> $GITHUB_OUTPUT
+
+  process-favicons:
+    name: Process Favicons
+    needs: fetch-countries
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        country: ${{ fromJson(needs.fetch-countries.outputs.countries) }}
+      max-parallel: 10
+      fail-fast: false
     
     steps:
       - name: Checkout repository
@@ -32,12 +53,47 @@ jobs:
       - name: Create directory structure
         run: mkdir -p radio/stations/favicons
       
-      - name: Process favicons
+      - name: Process favicons for ${{ matrix.country }}
         env:
-          COUNTRY_CODE: ${{ inputs.countryCode }}
+          COUNTRY_CODE: ${{ matrix.country }}
           PYTHONUNBUFFERED: 1
         run: |
           python -u .github/scripts/process_favicons.py
+      
+      - name: Set country variable
+        run: |
+          country_lower=$(echo "${{ matrix.country }}" | tr '[:upper:]' '[:lower:]')
+          echo "country_lower=${country_lower}" >> $GITHUB_ENV
+      
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: favicons-${{ env.country_lower }}
+          path: radio/stations/favicons/${{ env.country_lower }}
+          retention-days: 1
+          if-no-files-found: ignore
+
+  commit-changes:
+    name: Commit and Push Changes
+    needs: process-favicons
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+      
+      - name: Create directory structure
+        run: mkdir -p radio/stations/favicons
+      
+      - name: Download all favicon artifacts
+        uses: actions/download-artifact@v4
+        with:
+          path: artifacts
+          pattern: favicons-*
+      
+      - name: Move files to correct location
+        run: |
+          find artifacts -type f ! -name ".*" -exec mv {} radio/stations/favicons/ \;
       
       - name: Configure Git
         run: |
@@ -46,11 +102,10 @@ jobs:
       
       - name: Commit and push changes
         run: |
-          country_lower=$(echo "${{ inputs.countryCode }}" | tr '[:upper:]' '[:lower:]')
-          git add radio/stations/favicons/${country_lower}
+          git add radio/stations/favicons/
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Update favicons for ${{ inputs.countryCode }}"
+            git commit -m "Update radio station favicons (quarterly sync)"
             git push
           fi
