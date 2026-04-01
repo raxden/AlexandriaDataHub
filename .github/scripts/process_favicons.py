@@ -8,77 +8,148 @@ from bs4 import BeautifulSoup
 import time
 from datetime import datetime, timedelta
 
-def validate_url(url, timeout=10):
+def validate_url(url, timeout=10, verbose=False):
     """Validate if a URL is accessible and returns a valid response."""
     if not url or url.strip() == "":
+        if verbose:
+            print(f"    ⚠️  URL is empty or None")
         return False
     
     try:
         response = requests.head(url, timeout=timeout, allow_redirects=True)
         if response.status_code >= 400:
+            if verbose:
+                print(f"    ❌ HEAD request failed with status {response.status_code}")
             return False
+        if verbose:
+            print(f"    ✓ HEAD request successful (status {response.status_code})")
         return True
-    except:
+    except Exception as e:
+        if verbose:
+            print(f"    ⚠️  HEAD request failed ({type(e).__name__}), trying GET...")
         try:
             response = requests.get(url, timeout=timeout, allow_redirects=True, stream=True)
             if response.status_code >= 400:
+                if verbose:
+                    print(f"    ❌ GET request failed with status {response.status_code}")
                 return False
+            if verbose:
+                print(f"    ✓ GET request successful (status {response.status_code})")
             return True
-        except:
+        except Exception as e2:
+            if verbose:
+                print(f"    ❌ GET request failed: {type(e2).__name__}")
             return False
+
+def is_streaming_url(url):
+    """Check if URL is likely a streaming URL."""
+    streaming_extensions = ['.mp3', '.aac', '.m3u', '.m3u8', '.pls', '.ogg', '.flac', '.wav']
+    streaming_keywords = ['/stream', '/listen', '/radio', '/live']
+    
+    url_lower = url.lower()
+    
+    # Check for streaming file extensions
+    for ext in streaming_extensions:
+        if ext in url_lower:
+            return True
+    
+    # Check for common streaming keywords in path
+    parsed = urlparse(url)
+    path = parsed.path.lower()
+    for keyword in streaming_keywords:
+        if keyword in path and not path.endswith('.html') and not path.endswith('/'):
+            return True
+    
+    return False
 
 def find_favicon_from_homepage(homepage_url):
     """Try to find a favicon from the homepage."""
     if not homepage_url or homepage_url.strip() == "":
         return None
     
+    # Skip if URL looks like a streaming URL
+    if is_streaming_url(homepage_url):
+        print(f"  ⚠️  Skipping streaming URL: {homepage_url}")
+        return None
+    
     try:
-        response = requests.get(homepage_url, timeout=10, headers={
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
-        })
+        # Use shorter timeout and stream=True to detect content type early
+        response = requests.get(
+            homepage_url, 
+            timeout=5,  # Reduced timeout
+            stream=True,  # Stream to check headers first
+            headers={
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+            },
+            allow_redirects=True
+        )
         
         if response.status_code != 200:
             return None
         
-        soup = BeautifulSoup(response.text, 'html.parser')
+        # Check Content-Type to avoid processing audio streams
+        content_type = response.headers.get('Content-Type', '').lower()
+        if any(t in content_type for t in ['audio/', 'video/', 'application/octet-stream']):
+            print(f"  ⚠️  Skipping non-HTML content: {content_type}")
+            return None
+        
+        # Only download content if it's HTML
+        if 'text/html' not in content_type and 'text/' not in content_type:
+            print(f"  ⚠️  Unexpected content type: {content_type}")
+            return None
+        
+        # Download the actual content with size limit
+        content = b''
+        max_size = 1024 * 1024  # 1MB limit
+        for chunk in response.iter_content(chunk_size=8192):
+            content += chunk
+            if len(content) > max_size:
+                print(f"  ⚠️  Content too large, skipping")
+                return None
+        
+        soup = BeautifulSoup(content.decode('utf-8', errors='ignore'), 'html.parser')
         
         # Try to find favicon in various ways
         # 1. Look for <link rel="icon">
         icon_link = soup.find('link', rel=lambda x: x and 'icon' in x.lower())
         if icon_link and icon_link.get('href'):
             favicon_url = urljoin(homepage_url, icon_link['href'])
-            if validate_url(favicon_url):
+            if validate_url(favicon_url, verbose=True):
                 return favicon_url
         
         # 2. Look for <link rel="shortcut icon">
         shortcut_icon = soup.find('link', rel='shortcut icon')
         if shortcut_icon and shortcut_icon.get('href'):
             favicon_url = urljoin(homepage_url, shortcut_icon['href'])
-            if validate_url(favicon_url):
+            if validate_url(favicon_url, verbose=True):
                 return favicon_url
         
         # 3. Try default /favicon.ico
         parsed_url = urlparse(homepage_url)
         default_favicon = f"{parsed_url.scheme}://{parsed_url.netloc}/favicon.ico"
-        if validate_url(default_favicon):
+        if validate_url(default_favicon, verbose=True):
             return default_favicon
         
         # 4. Look for apple-touch-icon
         apple_icon = soup.find('link', rel=lambda x: x and 'apple-touch-icon' in x.lower())
         if apple_icon and apple_icon.get('href'):
             favicon_url = urljoin(homepage_url, apple_icon['href'])
-            if validate_url(favicon_url):
+            if validate_url(favicon_url, verbose=True):
                 return favicon_url
         
         # 5. Look for og:image
         og_image = soup.find('meta', property='og:image')
         if og_image and og_image.get('content'):
             favicon_url = urljoin(homepage_url, og_image['content'])
-            if validate_url(favicon_url):
+            if validate_url(favicon_url, verbose=True):
                 return favicon_url
         
+    except requests.Timeout:
+        print(f"  ⏱️  Timeout accessing homepage: {homepage_url}")
+    except requests.RequestException as e:
+        print(f"  ❌ Request error for homepage {homepage_url}: {type(e).__name__}")
     except Exception as e:
-        print(f"Error finding favicon from homepage {homepage_url}: {e}")
+        print(f"  ❌ Error finding favicon from homepage {homepage_url}: {type(e).__name__}")
     
     return None
 
@@ -93,7 +164,7 @@ def find_favicon_google(station_name, homepage_url):
         
         # Google's favicon service
         google_favicon = f"https://www.google.com/s2/favicons?domain={domain}&sz=128"
-        if validate_url(google_favicon):
+        if validate_url(google_favicon, verbose=True):
             return google_favicon
     except:
         pass
@@ -118,12 +189,16 @@ def process_station(station):
     }
     
     # Step 1: Validate existing favicon
-    if favicon and validate_url(favicon):
-        result['favicon'] = favicon
-        print(f"✓ Valid favicon for {name}: {favicon}")
-        return result
-    
-    print(f"✗ Invalid or missing favicon for {name}")
+    if favicon:
+        print(f"  → Validating existing favicon: {favicon}")
+        if validate_url(favicon, verbose=True):
+            result['favicon'] = favicon
+            print(f"✓ Valid favicon for {name}")
+            return result
+        else:
+            print(f"✗ Existing favicon is invalid or unreachable")
+    else:
+        print(f"✗ No favicon provided in API data for {name}")
     
     # Step 2: Try to find favicon from homepage
     if homepage:
