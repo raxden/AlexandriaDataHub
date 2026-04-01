@@ -1,6 +1,6 @@
 # Radio Favicons Processor
 
-Este workflow procesa las estaciones de radio de un país específico y valida/encuentra favicons para cada estación.
+Este workflow procesa las estaciones de radio de un país específico y **solo busca favicons para estaciones que no tienen uno válido** en la API original.
 
 ## Uso
 
@@ -23,12 +23,11 @@ El workflow realiza los siguientes pasos:
 1. **Obtiene las estaciones**: Consulta la API de Radio Browser para obtener todas las estaciones del país especificado
    - URL: `https://de1.api.radio-browser.info/json/stations/bycountrycodeexact/[countryCode]`
 
-2. **Valida favicons existentes**: Para cada estación, verifica si el favicon proporcionado:
-   - Existe y no está vacío
-   - Responde correctamente (no devuelve 4xx, 5xx u otros errores)
-   - Es accesible
+2. **Filtra estaciones**: 
+   - **Salta estaciones** que ya tienen un favicon válido en la API
+   - **Solo procesa** estaciones sin favicon o con favicon inválido/inaccesible
 
-3. **Busca favicons alternativos** si el favicon original no es válido:
+3. **Busca favicons alternativos** para las estaciones filtradas:
    - Busca en la homepage de la estación:
      - `<link rel="icon">`
      - `<link rel="shortcut icon">`

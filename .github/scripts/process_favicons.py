@@ -254,10 +254,9 @@ def process_station(station):
     # Step 1: Validate existing favicon
     if favicon:
         print(f"  → Validating existing favicon: {favicon}")
-        if validate_url(favicon, verbose=True):
-            result['favicon'] = favicon
-            print(f"✓ Valid favicon for {name}")
-            return result
+        if validate_url(favicon, verbose=False):  # Silent validation
+            print(f"⊘ Skipping - already has valid favicon: {name}")
+            return None  # Return None to indicate this station should be skipped
         else:
             print(f"✗ Existing favicon is invalid or unreachable")
     else:
@@ -370,6 +369,7 @@ def main():
     start_time = time.time()
     success_count = 0
     failed_count = 0
+    skipped_count = 0
     
     for i, station in enumerate(stations, 1):
         station_name = station.get('name', 'Unknown')
@@ -381,6 +381,12 @@ def main():
         print(f"{'='*80}")
         
         result = process_station(station)
+        
+        # Skip stations that already have valid favicons
+        if result is None:
+            skipped_count += 1
+            continue
+        
         results.append(result)
         
         # Track success/failure
@@ -399,9 +405,10 @@ def main():
             print(f"\n{'─'*80}")
             print(f"📊 PROGRESS SUMMARY")
             print(f"{'─'*80}")
-            print(f"  Processed: {i}/{len(stations)} ({percentage:.1f}%)")
-            print(f"  ✓ Success: {success_count} ({(success_count/i)*100:.1f}%)")
-            print(f"  ✗ Failed:  {failed_count} ({(failed_count/i)*100:.1f}%)")
+            print(f"  Checked: {i}/{len(stations)} ({percentage:.1f}%)")
+            print(f"  ⊚ Skipped (valid): {skipped_count}")
+            print(f"  ✓ Fixed: {success_count}")
+            print(f"  ✗ Failed: {failed_count}")
             print(f"  ⏱️  Elapsed: {timedelta(seconds=int(elapsed))}")
             if i < len(stations):
                 print(f"  ⏳ Remaining: ~{timedelta(seconds=int(remaining))}")
@@ -433,11 +440,13 @@ def main():
     print(f"✅ PROCESSING COMPLETE")
     print(f"{'='*80}")
     print(f"  📁 File: {output_file}")
-    print(f"  📊 Total stations processed: {len(results)}")
-    print(f"  ✓ Saved with favicon: {with_favicon} ({(with_favicon/len(results))*100:.1f}%)")
-    print(f"  ✗ Excluded (no favicon): {without_favicon} ({(without_favicon/len(results))*100:.1f}%)")
+    print(f"  📊 Total stations checked: {len(stations)}")
+    print(f"  ⊚ Skipped (already valid): {skipped_count}")
+    print(f"  🔧 Attempted to fix: {len(results)}")
+    print(f"  ✓ Successfully fixed: {with_favicon} ({(with_favicon/len(results))*100:.1f}% of attempted)" if len(results) > 0 else "  ✓ Successfully fixed: 0")
+    print(f"  ✗ Could not fix: {without_favicon}")
     print(f"  ⏱️  Total time: {timedelta(seconds=int(total_time))}")
-    print(f"  ⚡ Avg time/station: {total_time/len(results):.2f}s")
+    print(f"  ⚡ Avg time/station: {total_time/len(results):.2f}s" if len(results) > 0 else "  ⚡ Avg time/station: 0s")
     print(f"{'='*80}\n")
 
 if __name__ == '__main__':
