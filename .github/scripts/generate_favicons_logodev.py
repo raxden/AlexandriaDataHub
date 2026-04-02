@@ -104,7 +104,7 @@ def process_station(station):
             favicon_url = generate_logodev_url(domain)
             
             # Validate the generated URL
-            print(f"  → Validating logo.dev URL")
+            print(f"  → Validating logo.dev URL: {favicon_url}")
             if validate_url(favicon_url, verbose=True):
                 result['favicon'] = favicon_url
                 print(f"  ✓ Generated valid favicon: {favicon_url}")
@@ -120,6 +120,7 @@ def process_station(station):
         if domain:
             print(f"  → Trying stream domain: {domain}")
             favicon_url = generate_logodev_url(domain)
+            print(f"  → Validating logo.dev URL: {favicon_url}")
             
             if validate_url(favicon_url, verbose=True):
                 result['favicon'] = favicon_url
