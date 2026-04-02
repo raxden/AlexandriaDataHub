@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Family Radio FM",
+        "url": "https://c2.radioboss.fm/stream/394",
+        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "MGL Radio",
+        "url": "http://stream17.shoutcastsolutions.com:8096/",
+        "favicon": "https://img.logo.dev/mglradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Mongolian Music Radio",
+        "url": "http://65.108.143.81:7700/1",
+        "favicon": "https://img.logo.dev/radiosons.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Гэр бүлийн радио 104.5",
+        "url": "https://c2.radioboss.fm/stream/394",
+        "favicon": "https://img.logo.dev/1045.mn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "内蒙古草原之声 Inner Mongolia Voice of Grassland",
+        "url": "https://lhttp-hw.qtfm.cn/live/20973/64k.mp3",
+        "favicon": "https://img.logo.dev/nmtv.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    }
+]

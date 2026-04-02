@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Boss FM 104.1-104.9 - Grenada",
+        "url": "https://usa8.fastcast4u.com/proxy/bossfm2?mp=/1",
+        "favicon": "https://img.logo.dev/bossfmgrenada.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Boss FM Grenada",
+        "url": "http://cp.usa8.fastcast4u.com:5195/;",
+        "favicon": "https://img.logo.dev/bossfmgrenada.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Hot Shotz Radio - Grenada",
+        "url": "http://usa1.fastcast4u.com:3292/stream",
+        "favicon": "https://img.logo.dev/hotshotzradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Real FM - Grenada",
+        "url": "https://free.rcast.net/69262",
+        "favicon": "https://img.logo.dev/drealfmgrenada.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Star FM 101.9",
+        "url": "https://starchild.radioca.st/",
+        "favicon": "https://img.logo.dev/starfmgrenada.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Star FM 101.9 Grenada",
+        "url": "http://176.9.7.145:8288/stream",
+        "favicon": "https://img.logo.dev/starfmgrenada.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Wee FM 93.3/93.9 - Grenada",
+        "url": "https://usa8.fastcast4u.com/proxy/weefm2?mp=/1",
+        "favicon": "https://img.logo.dev/weefmgrenada.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    }
+]

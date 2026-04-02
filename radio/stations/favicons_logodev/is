@@ -1,0 +1,137 @@
+[
+    {
+        "name": "80´s Flash Back",
+        "url": "http://ice-11.spilarinn.is/80flashback",
+        "favicon": "https://img.logo.dev/spilarinn.is?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "80's Bylgjan",
+        "url": "http://icecast.365net.is:8000/orb80s.aac",
+        "favicon": "https://img.logo.dev/vefutvarp.visir.is?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Apparatid",
+        "url": "http://icecast.365net.is:8000/orbApparatid.aac",
+        "favicon": "https://img.logo.dev/spilarinn.is?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Bylgjan",
+        "url": "http://icecast.365net.is:8000/orbbylgjan.aac",
+        "favicon": "https://img.logo.dev/bylgjan.visir.is?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Bylgjan 98.9 Reykjavik",
+        "url": "http://icecast.365net.is:8000/orbbylgjan.aac",
+        "favicon": "https://img.logo.dev/bylgjan.visir.is?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Cathedral 13",
+        "url": "http://listen.shoutcast.com/cathedralxiii",
+        "favicon": "https://img.logo.dev/cathedral13.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Country Bylgjan",
+        "url": "http://icecast.365net.is:8000/orbFmExtra.aac",
+        "favicon": "https://img.logo.dev/vefutvarp.visir.is?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Flashback 60s",
+        "url": "https://ice-11.spilarinn.is/60flashback",
+        "favicon": "https://img.logo.dev/spilarinn.is?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Fred Film Radio-26 Íslenska",
+        "url": "https://s10.webradio-hosting.com/proxy/fredradiois/stream",
+        "favicon": "https://img.logo.dev/fred.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Gull Bylgjan 90.9 Reykjavik",
+        "url": "http://icecast.365net.is:8000/orbGullBylgjan.aac",
+        "favicon": "https://img.logo.dev/vefutvarp.visir.is?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "K 100",
+        "url": "https://ice-11.spilarinn.is/kaninnmobile",
+        "favicon": "https://img.logo.dev/k100.mbl.is?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Létt Bylgjan",
+        "url": "http://icecast.365net.is:8000/orbLettBylgjan.aac",
+        "favicon": "https://img.logo.dev/lettbylgjan.visir.is?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Bodun 105.5 Reykjavik",
+        "url": "http://radio.bodun.is:8000/stream",
+        "favicon": "https://img.logo.dev/tunein.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rás 1",
+        "url": "http://netradio.ruv.is/ras1.aac",
+        "favicon": "https://img.logo.dev/netradio.ruv.is?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rás2",
+        "url": "http://netradio.ruv.is/ras2.aac",
+        "favicon": "https://img.logo.dev/ruv.is?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Restro 89,5",
+        "url": "http://ice-11.spilarinn.is/retromobile",
+        "favicon": "https://img.logo.dev/spilarinn.is?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rondó",
+        "url": "https://ruv-radio-live.akamaized.net/streymi/rondo/rondo.m3u8",
+        "favicon": "https://img.logo.dev/ruv.is?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RUV 1",
+        "url": "http://netradio.ruv.is/ras1.aac",
+        "favicon": "https://img.logo.dev/ruv.is?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Ruv 1",
+        "url": "http://netradio.ruv.is/ras1.aac",
+        "favicon": "https://img.logo.dev/ruv.is?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rúv rás1",
+        "url": "http://netradio.ruv.is/ras1.aac",
+        "favicon": "https://img.logo.dev/ruv.is?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Suðurland FM",
+        "url": "https://ice-11.spilarinn.is/xsudurlandfm",
+        "favicon": "https://img.logo.dev/sudurlandfm.is?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Trolli FM 103.7 Siglufjordu",
+        "url": "http://live.trolli.is:8200/;",
+        "favicon": "https://img.logo.dev/fm.trolli.is?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Útvarp Saga",
+        "url": "https://stream.utvarpsaga.is/Hljodver",
+        "favicon": "https://img.logo.dev/utvarpsaga.is?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Visir \"FM 957 Extra\" Reykjavik",
+        "url": "http://icecast.365net.is:8000/orbFmExtra.aac",
+        "favicon": "https://img.logo.dev/fm957.visir.is?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Visir \"FM957\" 95.7 Reykjavik",
+        "url": "http://icecast.365net.is:8000/orbFm957.aac",
+        "favicon": "https://img.logo.dev/fm957.visir.is?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "X977",
+        "url": "http://icecast.365net.is:8000/orbXid.aac",
+        "favicon": "https://img.logo.dev/x977.visir.is?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    }
+]

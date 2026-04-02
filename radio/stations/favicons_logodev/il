@@ -1,0 +1,647 @@
+[
+    {
+        "name": ".assalam",
+        "url": "https://backup.qurango.net/radio/ahmad_khader_altarabulsi",
+        "favicon": "https://img.logo.dev/backup.qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "#joint radio Beat Trance",
+        "url": "https://jointil.com/stream-beat",
+        "favicon": "https://img.logo.dev/jointil.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "#joint radio Blues Rock",
+        "url": "https://jointil.com/stream-blues",
+        "favicon": "https://img.logo.dev/jointil.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "#Joint Radio Reggae",
+        "url": "https://jointil.com/stream-reggae",
+        "favicon": "https://img.logo.dev/jointil.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "#joint radio Reggae",
+        "url": "https://jointil.com/stream-reggae",
+        "favicon": "https://img.logo.dev/jointil.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "#Radio CS",
+        "url": "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g",
+        "favicon": "https://img.logo.dev/n0a.radiojar.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "100fm - 100% Movies",
+        "url": "http://gb25.streamgates.net/radios-audio/100Movies/icecast.audio",
+        "favicon": "https://img.logo.dev/superradio.cc?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "101.5fm נותנים למוזיקה לדבר רדיו דרום",
+        "url": "https://cdn.cybercdn.live/Darom_1015FM/Live/icecast.audio",
+        "favicon": "https://img.logo.dev/1015.radiodarom.co.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "101.5fm רדיו התחנה",
+        "url": "https://cdn.cybercdn.live/Hatahana_1015/Live_Audio/icecast.audio",
+        "favicon": "https://img.logo.dev/hatahana.co.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "101fm radio jerusalem",
+        "url": "https://radio.streamgates.net/stream/101fm",
+        "favicon": "https://img.logo.dev/rlive.co.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "104.5fm radio זשכםמ",
+        "url": "https://radio.streamgates.net/stream/1045fm",
+        "favicon": "https://img.logo.dev/1045fm.maariv.co.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "104.5FM צפון",
+        "url": "https://radio.streamgates.net/stream/1045fm",
+        "favicon": "https://img.logo.dev/1045fm.maariv.co.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "88 FM",
+        "url": "https://29073.live.streamtheworld.com/KAN_88.mp3",
+        "favicon": "https://img.logo.dev/kan.org.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "88FM",
+        "url": "https://kan88.media.kan.org.il/hls/live/2024812/2024812/kan88_mp3/chunklist.m3u8",
+        "favicon": "https://img.logo.dev/kan.org.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "91FM",
+        "url": "https://cdn.cybercdn.live/Lev_Hamedina/Audio/icecast.audio",
+        "favicon": "https://img.logo.dev/91fm.co.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "94fm רדיו גלי ישראל",
+        "url": "https://cdn.cybercdn.live/Galei_Israel/Live/icecast.audio",
+        "favicon": "https://img.logo.dev/gly.co.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "AudioVersity",
+        "url": "https://1062onair.runi.ac.il/idc123.mp3",
+        "favicon": "https://img.logo.dev/1062fm.co.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "AVIVmedia",
+        "url": "http://176.9.7.145:8127/stream",
+        "favicon": "https://img.logo.dev/avivmedia.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "ECO99FM",
+        "url": "https://eco-live.mediacast.co.il/99fm_aac",
+        "favicon": "https://img.logo.dev/eco99fm.maariv.co.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "ELI NISMAN",
+        "url": "http://listen6.myradio24.com:9000/25715",
+        "favicon": "https://img.logo.dev/fmstream.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Eli Nisman Radio",
+        "url": "https://listen6.myradio24.com/25715",
+        "favicon": "https://img.logo.dev/niceman087.wixsite.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Euphonic FM",
+        "url": "https://streaming.live365.com/a64617/playlist.m3u8",
+        "favicon": "https://img.logo.dev/euphonic.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Galei Zahal",
+        "url": "http://glzwizzlv.bynetcdn.com/glz_mp3",
+        "favicon": "https://img.logo.dev/glzwizzlv.bynetcdn.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Galgalatz",
+        "url": "https://glzwizzlv.bynetcdn.com/glglz_mp3?awCollectionId=misc&awEpisodeId=glglz",
+        "favicon": "https://img.logo.dev/glz.co.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Galgalatz 91.8 FM",
+        "url": "https://glzicylv01.bynetcdn.com/glglz_mp3",
+        "favicon": "https://img.logo.dev/glz.co.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Glglz",
+        "url": "https://api.bynetcdn.com/Redirector/glz/glglz/ICE-LIVE",
+        "favicon": "https://img.logo.dev/glz.co.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Glz",
+        "url": "http://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz",
+        "favicon": "https://img.logo.dev/glz.co.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Glz",
+        "url": "http://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz",
+        "favicon": "https://img.logo.dev/glz.co.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "GUITAR - J. WILLIAMS",
+        "url": "http://drive.uber.radio/uber/crjohnwilliamsguitarist/icecast.audio",
+        "favicon": "https://img.logo.dev/radio-addict.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Hedva Shaltiel",
+        "url": "https://icecast.live/ivr",
+        "favicon": "https://img.logo.dev/israelivoiceradio.co.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Israeli voice radio",
+        "url": "https://icecast.live/ivr",
+        "favicon": "https://img.logo.dev/israelivoiceradio.co.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Israeli voice radio",
+        "url": "https://icecast.live/ivr",
+        "favicon": "https://img.logo.dev/israelivoiceradio.co.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Israeli voice radio",
+        "url": "https://icecast.live/ivr",
+        "favicon": "https://img.logo.dev/israelivoiceradio.co.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Ivri 6",
+        "url": "https://streaming.radio.co/sa06221901/listen",
+        "favicon": "https://img.logo.dev/ivri6.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Jewish Music Stream",
+        "url": "https://stream.jewishmusicstream.com:8000/",
+        "favicon": "https://img.logo.dev/jewishmusicstream.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Kabbalah Fr",
+        "url": "http://icecast.kab.tv/live1-spa-574bcfd5.mp3",
+        "favicon": "https://img.logo.dev/kab.info?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "KAN 88",
+        "url": "http://kanliveicy.media.kan.org.il/icy/749623_mp3?providername=tunein",
+        "favicon": "https://img.logo.dev/kan.org.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Kan 88",
+        "url": "http://kanliveicy.media.kan.org.il/icy/kan88_mp3",
+        "favicon": "https://img.logo.dev/kan.org.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Kan Bet",
+        "url": "https://25583.live.streamtheworld.com/KAN_BET.mp3?dist=bynetredirect&1737047133",
+        "favicon": "https://img.logo.dev/kan.org.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Kan Bet",
+        "url": "https://kanbet.media.kan.org.il/hls/live/2024811/2024811/playlist.m3u8",
+        "favicon": "https://img.logo.dev/kan.org.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Kan Bet",
+        "url": "https://28563.live.streamtheworld.com/KAN_BET.mp3",
+        "favicon": "https://img.logo.dev/kan.org.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Kan Gimel",
+        "url": "http://kanliveicy01.bynetcdn.com/icy/kangimmel_mp3",
+        "favicon": "https://img.logo.dev/kan.org.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "KAN gimel (real)",
+        "url": "http://kanliveicy.media.kan.org.il/icy/749625_mp3",
+        "favicon": "https://img.logo.dev/kan.org.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "KAN Gimel כאן גימל",
+        "url": "https://27873.live.streamtheworld.com/KAN_GIMMEL.mp3",
+        "favicon": "https://img.logo.dev/kan.org.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Kan Israel 88 FM",
+        "url": "http://kanliveicy.media.kan.org.il/icy/kan88_mp3",
+        "favicon": "https://img.logo.dev/kan.org.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Kan Israel Reshet Moreshet 92.5 FM",
+        "url": "http://kanliveicy.media.kan.org.il/icy/kanmoreshet_mp3",
+        "favicon": "https://img.logo.dev/kan.org.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Kan Israel Tarbut",
+        "url": "http://kanliveicy.media.kan.org.il/icy/kantarbut_mp3",
+        "favicon": "https://img.logo.dev/kan.org.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Kan Kol HaMusica",
+        "url": "http://kanliveicy.media.kan.org.il/icy/kankolhamusica_mp3",
+        "favicon": "https://img.logo.dev/kan.org.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Kan Reka",
+        "url": "http://kanliveicy01.bynetcdn.com/icy/kanreka_mp3",
+        "favicon": "https://img.logo.dev/kan.org.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Kan Reshet Bet",
+        "url": "http://kanliveicy.media.kan.org.il/icy/kanbet_mp3",
+        "favicon": "https://img.logo.dev/kan.org.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Kan Tarbut",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_TARBUT.mp3?dist",
+        "favicon": "https://img.logo.dev/kan.org.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Kcm FM Channel 01 Live",
+        "url": "https://media2.93fm.co.il/livemusic",
+        "favicon": "https://img.logo.dev/kcm.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "kol hai",
+        "url": "https://live.kcm.fm/livemusic",
+        "favicon": "https://img.logo.dev/live.kcm.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Kol Rega קול רגע 91.5/96",
+        "url": "https://cdn.cybercdn.live/Kol_Rega/Live_Audio/icecast.audio",
+        "favicon": "https://img.logo.dev/96fm.co.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "kzradio",
+        "url": "https://kzradio.mediacast.co.il/kzradio_live/kzradio/icecast.audio",
+        "favicon": "https://img.logo.dev/kzradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Mizrahit FM Best",
+        "url": "http://rs.mizrahit.fm:7777/arabellavie",
+        "favicon": "https://img.logo.dev/mizrahit.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "mizrahit radio",
+        "url": "https://mzr.mediacast.co.il/mzradio",
+        "favicon": "https://img.logo.dev/mizrahit.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Mizrahit_Fm",
+        "url": "http://rs.mizrahit.fm:7777/arabellavie",
+        "favicon": "https://img.logo.dev/mizrahit.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Music-ToraVeZimra",
+        "url": "https://cast.breslevforyou.co.il/listen/music-toravezimra/radio.mp3",
+        "favicon": "https://img.logo.dev/breslevforyou.co.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Nachman",
+        "url": "https://cast.breslevforyou.co.il/listen/radiobreslev/radio.mp3",
+        "favicon": "https://img.logo.dev/breslevforyou.co.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio 100% 90s",
+        "url": "https://gb25.streamgates.net/radios-audio/10090s/icecast.audio",
+        "favicon": "https://img.logo.dev/digital.100fm.co.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio 103FM",
+        "url": "https://cdn.cybercdn.live/103FM/Live/icecast.audio",
+        "favicon": "https://img.logo.dev/103fm.maariv.co.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio 90FM",
+        "url": "https://cdn.cybercdn.live/Emtza_Haderech/Live_Audio/icecast.audio",
+        "favicon": "https://img.logo.dev/90fm.co.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Breslev Carmiel",
+        "url": "https://securestreams6.autopo.st:2294/mp3",
+        "favicon": "https://img.logo.dev/breslevcarmiel.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "radio darom 95.8fm 97fm",
+        "url": "https://cdn.cybercdn.live/Darom_97FM/Live/icecast.audio",
+        "favicon": "https://img.logo.dev/radiodarom.co.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Haifa רדיו חיפה",
+        "url": "https://1075.livecdn.biz/radiohaifa",
+        "favicon": "https://img.logo.dev/1075.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "radio lev hamedina",
+        "url": "https://cdn.cybercdn.live/Lev_Hamedina/Audio/icecast.audio",
+        "favicon": "https://img.logo.dev/91fm.co.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Lev Hamedina",
+        "url": "http://91fm.streamgates.net/Lev91Fm",
+        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Nahariya",
+        "url": "https://cast.radionahariya.com:8443/main.mp3",
+        "favicon": "https://img.logo.dev/radionahariya.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Nas",
+        "url": "https://cdna.streamgates.net/RadioNas/Live-Audio/icecast.audio",
+        "favicon": "https://img.logo.dev/nasradio.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Qualita",
+        "url": "https://www.radioking.com/play/radio-qualita",
+        "favicon": "https://img.logo.dev/studioqualita.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Sahar",
+        "url": "https://live.ecast.co.il/stream/sahar/stream",
+        "favicon": "https://img.logo.dev/radiosahar.co.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Sahar",
+        "url": "https://live.ecast.co.il/stream/sahar/stream",
+        "favicon": "https://img.logo.dev/radiosahar.co.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RadioPlus",
+        "url": "http://s3.yesstreaming.net:7049/stream",
+        "favicon": "https://img.logo.dev/radioplus.co.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radios 100FM",
+        "url": "http://gb25.streamgates.net/radios-audio/100Workout/icecast.audio",
+        "favicon": "https://img.logo.dev/digital.100fm.co.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radios 100FM   רדיוס",
+        "url": "https://cdn.cybercdn.live/Radios_100FM/Audio/icecast.audio",
+        "favicon": "https://img.logo.dev/100fm.co.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radios 100FM - 100% 80s",
+        "url": "http://gb25.streamgates.net/radios-audio/10080s/icecast.audio",
+        "favicon": "https://img.logo.dev/digital.100fm.co.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radios 100FM - 100% Oldies",
+        "url": "http://gb25.streamgates.net/radios-audio/100Oldies/icecast.audio",
+        "favicon": "https://img.logo.dev/digital.100fm.co.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rak Musica",
+        "url": "https://play.radioking.io/rak-musica/670240",
+        "favicon": "https://img.logo.dev/rak-musica.webnode.be?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "reka",
+        "url": "http://kanliveicy.media.kan.org.il/icy/kanreka_mp3",
+        "favicon": "https://img.logo.dev/kanliveicy.media.kan.org.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Star 33 Radiostation",
+        "url": "https://online.star33radio.com:1115/stream",
+        "favicon": "https://img.logo.dev/online.star33radio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Tel Aviv 102FM רדיו תל אביב",
+        "url": "https://102.livecdn.biz/102fm_aac",
+        "favicon": "https://img.logo.dev/102fm.co.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "toker",
+        "url": "https://live.toker.fm:6060/",
+        "favicon": "https://img.logo.dev/fmstream.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "toker fm",
+        "url": "https://live.toker.fm:6060/",
+        "favicon": "https://img.logo.dev/live.toker.fm:6060?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Ze Rock Radio",
+        "url": "https://icecast.live/proxy/zerock/zerock",
+        "favicon": "https://img.logo.dev/zerockradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Лучшее Радио",
+        "url": "http://live.cdnwz.net/thebest",
+        "favicon": "https://img.logo.dev/radio1064.co.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Лучшее Радио",
+        "url": "http://live.cdnwz.net/thebest",
+        "favicon": "https://img.logo.dev/radio1064.co.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Машиах Инфо Канал 1",
+        "url": "http://s01.radio-tochka.com:6935/;",
+        "favicon": "https://img.logo.dev/mashiah.info?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Машиах Инфо Канал 2",
+        "url": "http://s01.radio-tochka.com:6045/;",
+        "favicon": "https://img.logo.dev/mashiah.info?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Мессианское онлайн радио Орэну",
+        "url": "https://listen7.myradio24.com/orenu",
+        "favicon": "https://img.logo.dev/orenu.co.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Мессианское радио Орэну",
+        "url": "https://listen7.myradio24.com/orenu",
+        "favicon": "https://img.logo.dev/orenu.co.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Первое радио 89.1FM",
+        "url": "https://cdn.cybercdn.live/Pervoia/Audio/icecast.audio",
+        "favicon": "https://img.logo.dev/891fm.co.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "אקו eco 99fm",
+        "url": "http://99.mediacast.co.il/99fm_aac?hash=1559501510715.m4a",
+        "favicon": "https://img.logo.dev/eco99fm.maariv.co.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "ברסלב פוריו: דעת רבנו",
+        "url": "https://cast.breslevforyou.co.il/listen/radiobreslev/radio.mp3",
+        "favicon": "https://img.logo.dev/breslevforyou.co.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "ברסלב פוריו: הלכות ודף יומי",
+        "url": "https://cast.breslevforyou.co.il/listen/halachot/radio.mp3",
+        "favicon": "https://img.logo.dev/breslevforyou.co.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "ברסלב פוריו: ספרי ברסלב",
+        "url": "https://cast.breslevforyou.co.il/listen/books/radio.mp3",
+        "favicon": "https://img.logo.dev/breslevforyou.co.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "ברסלב פוריו: קצר וקולע",
+        "url": "https://cast.breslevforyou.co.il/listen/shorts/radio.mp3",
+        "favicon": "https://img.logo.dev/breslevforyou.co.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "ברסלב פוריו: תורה וזימרה",
+        "url": "https://cast.breslevforyou.co.il/listen/music-toravezimra/radio.mp3",
+        "favicon": "https://img.logo.dev/breslevforyou.co.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "גלגלצ - Glglz",
+        "url": "http://glzwizzlv.bynetcdn.com/glglz_mp3",
+        "favicon": "https://img.logo.dev/glz.co.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "גלי ישראל Galey Yisrael",
+        "url": "https://cdn.cybercdn.live/Galei_Israel/Live/icecast.audio",
+        "favicon": "https://img.logo.dev/gly.co.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "גלי צה\"ל",
+        "url": "http://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz",
+        "favicon": "https://img.logo.dev/glz.co.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "גלצ",
+        "url": "https://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz",
+        "favicon": "https://img.logo.dev/glz.co.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "גלצ",
+        "url": "http://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz",
+        "favicon": "https://img.logo.dev/glzwizzlv.bynetcdn.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "הקצה - Hakatze",
+        "url": "http://kzradio.mediacast.co.il/kzradio_live/kzradio/icecast.audio",
+        "favicon": "https://img.logo.dev/kzradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "כאן מורשת - Kan Moreshet",
+        "url": "https://kanliveicy.media.kan.org.il/icy/749629_mp3",
+        "favicon": "https://img.logo.dev/kan.org.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "כאן מורשת - Kan Moreshet",
+        "url": "https://kanliveicy.media.kan.org.il/icy/kanmoreshet_mp3",
+        "favicon": "https://img.logo.dev/kan.org.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "כאן רקע Kan Reka",
+        "url": "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/radio/kan_reka/live.livx/playlist.m3u8?renditions",
+        "favicon": "https://img.logo.dev/kan.org.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "נושמים מזרחית - Noshmim Mizrahit",
+        "url": "http://www.rs.mizrahit.fm:7777/",
+        "favicon": "https://img.logo.dev/mizrahit.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "קבלה לעם אנגלית - Kabbalah eng",
+        "url": "http://icecast.kab.tv/live1-eng-574bcfd5.mp3",
+        "favicon": "https://img.logo.dev/kab.info?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "קבלה לעם עברית - Kabbalah heb",
+        "url": "http://icecast.kab.tv/live1-heb-574bcfd5.mp3",
+        "favicon": "https://img.logo.dev/kab.info?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "קבלה לעם צרפתית - Kabbalah fre",
+        "url": "http://icecast.kab.tv/live1-fre-574bcfd5.mp3",
+        "favicon": "https://img.logo.dev/kab.info?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "קבלה לעם רוסית - Kabbalah rus",
+        "url": "http://icecast.kab.tv/live1-rus-574bcfd5.mp3",
+        "favicon": "https://img.logo.dev/kab.info?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "קול ברמה - Kol Barama",
+        "url": "http://kb.cdnwz.net/kol_barama",
+        "favicon": "https://img.logo.dev/kol-barama.co.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "קול השפלה - Kol Hashfela",
+        "url": "http://1036kh.cdnwz.net/1036kh",
+        "favicon": "https://img.logo.dev/1036kh.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "קול חי - Kol Chai",
+        "url": "https://media2.93fm.co.il/live-new",
+        "favicon": "https://img.logo.dev/93fm.co.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "קול חי - Kol Chai",
+        "url": "https://media2.93fm.co.il/live-new",
+        "favicon": "https://img.logo.dev/93fm.co.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "קול חי מיוזיק - Kol Chai Music",
+        "url": "https://media2.93fm.co.il/livemusic",
+        "favicon": "https://img.logo.dev/kcm.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "קול חי מיוזיק - Kol Chai Music",
+        "url": "https://media2.93fm.co.il/livemusic",
+        "favicon": "https://img.logo.dev/kcm.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "קול חי מיוזיק - Kol Chai Music",
+        "url": "https://media2.93fm.co.il/livemusic",
+        "favicon": "https://img.logo.dev/kcm.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "קול חי מיוזיק - Kol Chai Music",
+        "url": "https://media2.93fm.co.il/livemusic",
+        "favicon": "https://img.logo.dev/kcm.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "קול פליי | kol-play",
+        "url": "https://cdn.cybercdn.live/Kol_Barama/Music/icecast.audio",
+        "favicon": "https://img.logo.dev/kol-play.co.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "רדיו חמאש - Radio Hamesh",
+        "url": "http://995.livecdn.biz:8000/995fm",
+        "favicon": "https://img.logo.dev/995.co.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "רדיו מזרחית",
+        "url": "https://mzr.mediacast.co.il/mzradio",
+        "favicon": "https://img.logo.dev/mizrahit.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "רדיו תל אביב 102 FM",
+        "url": "https://102.livecdn.biz/102fm_aac",
+        "favicon": "https://img.logo.dev/102fm.co.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "רשת ג בדיקה",
+        "url": "http://kanliveicy.media.kan.org.il/icy/kangimmel_mp3",
+        "favicon": "https://img.logo.dev/kanliveicy.media.kan.org.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "תל אביב Tel Aviv 102FM",
+        "url": "http://102.livecdn.biz/102fm_aac",
+        "favicon": "https://img.logo.dev/102fm.co.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "اذاعة الشمس - A-Shams",
+        "url": "https://cdna.streamgates.net/Ashams/Live/icecast.audio",
+        "favicon": "https://img.logo.dev/ashams.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "راديو مكان  - Kan Israel Makan",
+        "url": "http://kanliveicy.media.kan.org.il/icy/makan_mp3",
+        "favicon": "https://img.logo.dev/makan.org.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    }
+]

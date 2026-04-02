@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "FunkyUncleFm",
+        "url": "http://funkyunclefm.net:8000/fufm",
+        "favicon": "https://img.logo.dev/funkyunclefm.net:8443?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Gachi Station (Ukrainian playlist) #1",
+        "url": "https://stream.zeno.fm/bmb6ihzfbpdtv",
+        "favicon": "https://img.logo.dev/felixfester.neocities.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Gachi Station #1",
+        "url": "https://stream.zeno.fm/y513614qvzzuv",
+        "favicon": "https://img.logo.dev/felixfester.neocities.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Gachi Station #2",
+        "url": "https://stream.zeno.fm/p7ume1dmbd0uv",
+        "favicon": "https://img.logo.dev/felixfester.neocities.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Gachi Station #3",
+        "url": "https://stream.zeno.fm/cucqe20mixktv",
+        "favicon": "https://img.logo.dev/felixfester.neocities.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "kbs",
+        "url": "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3Njg2MzE5NzB9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=ZA4umX8mR18ETck7hGVZNm9Juwc31Dv6QEhMGt--kU01l9lEsaa0Q4Wxja6wWLVHw7PFuKgeh8i7Zs1bkysVNZ6EGmBQLIzFi7WbLw8t2m-Pkbwrzo~unViiyUDiQGdYQNjKzkdFXreaqAkcoSkvYVsukbZptGOqb-bIyMtwKfWpbXAGlaqrYCZdYAkkGDa2dqneDGM8f~6WxamboHt8j5MRjZm9glAU-zDDBtdyaI6gZlRj41K~8QC6aKrOSqGU3vkpxwmzLs-PTU2WJf0PXMiXtgsMwkJF3I3jdSiZX4N3Awv4-XC3GNwLpQW8AtH4GKJEjcyJ1SPgdNY8BxPe~A__",
+        "favicon": "https://img.logo.dev/serpent0.duckdns.org:8088?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "lassulus radio",
+        "url": "http://radio.lassul.us/radio.mp3",
+        "favicon": "https://img.logo.dev/radio.lassul.us?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio X",
+        "url": "https://stream.radiox.sk:8443/mood.mp3",
+        "favicon": "https://img.logo.dev/radiox.sk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "UKNova",
+        "url": "http://uknr.org:8000/",
+        "favicon": "https://img.logo.dev/uknr.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    }
+]

@@ -1,0 +1,227 @@
+[
+    {
+        "name": "54HOUSE.FM CLUB",
+        "url": "https://54house.fm:9013/stream",
+        "favicon": "https://img.logo.dev/54house.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Antena M",
+        "url": "http://radioservis.me:8010/antenamlive",
+        "favicon": "https://img.logo.dev/antenam.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Boka News",
+        "url": "http://bokanews.me:8000/source?1734500086794",
+        "favicon": "https://img.logo.dev/bokanews.me?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Bruškin",
+        "url": "https://player.radiobruskin.me/proxy/radiobruskin/stream",
+        "favicon": "https://img.logo.dev/radiobruskin.me?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "City Radio",
+        "url": "http://eu7.fastcast4u.com:6166/;",
+        "favicon": "https://img.logo.dev/cityradio.me?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Drugačija Radio Stanica",
+        "url": "https://eu2.fastcast4u.com/proxy/mic0?mp=/stream",
+        "favicon": "https://img.logo.dev/drugacija.me?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Drugačija Radio Stanica",
+        "url": "https://eu2.fastcast4u.com/proxy/mic0?mp=/stream",
+        "favicon": "https://img.logo.dev/drugacija.me?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "El Radio Podgorica",
+        "url": "https://radio.elmag.me/el.mp3",
+        "favicon": "https://img.logo.dev/elradio.me?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Mag radio",
+        "url": "http://radio.elmag.me/mag.mp3",
+        "favicon": "https://img.logo.dev/magradio.me?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Novi Elmag radio",
+        "url": "http://radio.elmag.me/elmag.mp3",
+        "favicon": "https://img.logo.dev/elmag.me?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Play Radio Montenegro",
+        "url": "https://stream.playradio.me:8443/play-me.mp3",
+        "favicon": "https://img.logo.dev/playradio.me?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Andrijevica",
+        "url": "https://mpc2.mediacp.eu/stream/andrijevica/stream",
+        "favicon": "https://img.logo.dev/mpc2.mediacp.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Berane",
+        "url": "https://stream.iradio.pro/proxy/radioberane?mp=/stream;",
+        "favicon": "https://img.logo.dev/stream.iradio.pro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Berane",
+        "url": "https://stream.iradio.pro/proxy/radioberane?mp=/stream;",
+        "favicon": "https://img.logo.dev/radioberane.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Bijelo Polje",
+        "url": "http://136.243.134.202:8122/stream",
+        "favicon": "https://img.logo.dev/radiobijelopolje.me?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Boka News",
+        "url": "http://bokanews.me:8000/source",
+        "favicon": "https://img.logo.dev/bokanews.me?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Budva",
+        "url": "https://c8.radioboss.fm:18199/stream",
+        "favicon": "https://img.logo.dev/rtvbudva.me?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Cetinje",
+        "url": "http://78.129.228.187:8007/stream",
+        "favicon": "https://img.logo.dev/cetinjskilist.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Crne Gore 1",
+        "url": "https://rtcg.ipradio.rs:9008/;",
+        "favicon": "https://img.logo.dev/rtcg.me?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Crne Gore 2 R98",
+        "url": "https://r98.ipradio.rs:10100/;",
+        "favicon": "https://img.logo.dev/rtcg.me?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio D plus",
+        "url": "https://radiodplus.radioca.st/xstream",
+        "favicon": "https://img.logo.dev/radioddplus.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Elmag Caffe",
+        "url": "https://radio.elmag.me/cafe.mp3",
+        "favicon": "https://img.logo.dev/elmag.me?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Elmag Evergreen",
+        "url": "https://radio.elmag.me/evergreen.mp3",
+        "favicon": "https://img.logo.dev/elmag.me?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Elmag Folk Gold",
+        "url": "https://radio.elmag.me/folkgold.mp3",
+        "favicon": "https://img.logo.dev/elmag.me?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Elmag Izvorne i Starogradske",
+        "url": "https://radio.elmag.me/izvorne.mp3",
+        "favicon": "https://img.logo.dev/elmag.me?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Elmag Kids",
+        "url": "https://radio.elmag.me/kids.mp3",
+        "favicon": "https://img.logo.dev/elmag.me?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Elmag Love",
+        "url": "https://radio.elmag.me/love.mp3",
+        "favicon": "https://img.logo.dev/elmag.me?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Elmag Nostalgija",
+        "url": "https://radio.elmag.me/nostalgija.mp3",
+        "favicon": "https://img.logo.dev/elmag.me?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Elmag Party",
+        "url": "https://radio.elmag.me/party.mp3",
+        "favicon": "https://img.logo.dev/elmag.me?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Elmag Pop Rock EX YU",
+        "url": "https://radio.elmag.me/poprock.mp3",
+        "favicon": "https://img.logo.dev/elmag.me?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Fatih",
+        "url": "https://radioservis.me/radio/8070/radiofatih?1702660538716",
+        "favicon": "https://img.logo.dev/radiofatih.me?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Kotor",
+        "url": "https://stream.iradio.pro/proxy/radiokotor?mp=/stream",
+        "favicon": "https://img.logo.dev/radiokotor.info?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Porto Montenegro",
+        "url": "https://malta1491.startdedicated.de:8443/main",
+        "favicon": "https://img.logo.dev/radio-portomontenegro.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio S1 Crna Gora",
+        "url": "https://stream.radios.rs:9008/;",
+        "favicon": "https://img.logo.dev/radios.rs?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio S2 Crna Gora",
+        "url": "https://stream.radios.rs:9010/;",
+        "favicon": "https://img.logo.dev/radios.rs?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio S3 Crna Gora",
+        "url": "https://stream.radios.rs:9018/",
+        "favicon": "https://img.logo.dev/radios.rs?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Saraj",
+        "url": "https://eu4.fastcast4u.com/proxy/stilradiomk?mp=/s",
+        "favicon": "https://img.logo.dev/radiogora.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Svetigora",
+        "url": "http://svetigoralive.com:8879/;",
+        "favicon": "https://img.logo.dev/svetigora.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RCG Millennium",
+        "url": "https://rtcg.ipradio.rs:9102/;",
+        "favicon": "https://img.logo.dev/radio.rtcg.me?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rcg Yug",
+        "url": "https://rtcg.ipradio.rs:9103/;",
+        "favicon": "https://img.logo.dev/rtcg.me?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Reggaeneracija Montenegro",
+        "url": "http://5.189.179.77:8000/stream",
+        "favicon": "https://img.logo.dev/5.189.179.77:8000?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Skadar",
+        "url": "http://radioservis.me:8050/radioskadar",
+        "favicon": "https://img.logo.dev/radioskadar.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "TDI Radio Crna Gora",
+        "url": "https://streaming.tdiradio.com/crnagora.mp3",
+        "favicon": "https://img.logo.dev/tdiradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "РЦГ Classic",
+        "url": "http://rtcg1.ipradio.rs:10004/;",
+        "favicon": "https://img.logo.dev/rtcg.me?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    }
+]

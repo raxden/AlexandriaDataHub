@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Alive - Live Music Radio around the clock (24h Blues, Rock, Pop)",
+        "url": "http://stream.laut.fm/alive",
+        "favicon": "https://img.logo.dev/laut.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "EnergyFM",
+        "url": "https://ukwesta.streaming.broadcast.radio/energyfm",
+        "favicon": "https://img.logo.dev/energyfm.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Isle of Man Free Radio",
+        "url": "https://play.radioking.io/ian-byrne",
+        "favicon": "https://img.logo.dev/sites.google.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Manx Radio FM",
+        "url": "http://tx.sharp-stream.com/http_live.php?i=manxradiofm.aac",
+        "favicon": "https://img.logo.dev/manxradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    }
+]

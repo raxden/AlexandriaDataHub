@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Alpha FM",
+        "url": "https://ice.fabricahost.com.br/alphafm1021",
+        "favicon": "https://img.logo.dev/goiania.alphafm.com.br?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "BFBS Gibraltar",
+        "url": "http://edge-audio-03-gos2.sharp-stream.com/ssvcbfbs7.mp3",
+        "favicon": "https://img.logo.dev/forces.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "GBC Radio Gibraltar",
+        "url": "https://sh.uk.audio-stream.com/proxy/gibralta?mp=/stream",
+        "favicon": "https://img.logo.dev/gbc.gi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Gibraltar Plus 100.5",
+        "url": "https://s2.myradiostream.com/32910/listen.mp3",
+        "favicon": "https://img.logo.dev/gbc.gi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RadioGibraltar MW",
+        "url": "https://sh.uk.audio-stream.com/proxy/matorr00?mp=/stream",
+        "favicon": "https://img.logo.dev/gbc.gi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RadioSeu",
+        "url": "https://streaming.enacast.com/radiolaseu128.mp3",
+        "favicon": "https://img.logo.dev/radioseu.cat?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    }
+]

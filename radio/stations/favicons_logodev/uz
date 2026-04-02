@@ -1,0 +1,62 @@
+[
+    {
+        "name": "A'LO FM",
+        "url": "http://tabassum.uz:9000/alo_low",
+        "favicon": "https://img.logo.dev/tabassum.uz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "alghad FM",
+        "url": "http://s10.voscast.com:9410/",
+        "favicon": "https://img.logo.dev/alghad.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Islom.uz",
+        "url": "https://radio.islom.uz/islomuz",
+        "favicon": "https://img.logo.dev/islom.uz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Oriat FM",
+        "url": "http://194.5.152.248:8000/fm",
+        "favicon": "https://img.logo.dev/oriatfm.uz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Qalbim navosi",
+        "url": "http://live.qalbimnavosi.uz/qalbimnavosi",
+        "favicon": "https://img.logo.dev/qalbimnavosi.uz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Qalbim navosi",
+        "url": "http://213.230.109.7:9000/alo_low",
+        "favicon": "https://img.logo.dev/qalbimnavosi.uz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Markaz",
+        "url": "http://mediamarkaz.com:8000/radiomarkaz",
+        "favicon": "https://img.logo.dev/mediamarkaz.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio O'zbegim Taronasi",
+        "url": "https://fm101.uz:9943/fm101_low.aac",
+        "favicon": "https://img.logo.dev/fm101.uz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Tabassum",
+        "url": "http://tabassum.uz:9000/alo_low",
+        "favicon": "https://img.logo.dev/tabassum.uz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "The Holy Quran  by Sheikh Mahmoud Al-Husari",
+        "url": "https://qurango.net/radio/mahmoud_khalil_alhussary_warsh",
+        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Yoshlar Ovozi",
+        "url": "http://ns10.jethost.uz:8000/yoshlarovoziaac",
+        "favicon": "https://img.logo.dev/muz.uz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    }
+]

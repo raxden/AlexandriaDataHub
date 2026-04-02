@@ -1,0 +1,342 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Anow Radio Hd+ Tamil",
+        "url": "https://onair.punnagairadio.com/anowradiohd/stream",
+        "favicon": "https://img.logo.dev/anowhosting.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "bestcoast.fm",
+        "url": "http://streams.radio.co/sea5dddd6b/listen",
+        "favicon": "https://img.logo.dev/bestcoast.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Classic Radio",
+        "url": "https://cp11.serverse.com/proxy/classic/stream",
+        "favicon": "https://img.logo.dev/trn.lk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "E FM",
+        "url": "http://207.148.74.192:7860/stream.mp3",
+        "favicon": "https://img.logo.dev/207.148.74.192:7860?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "FOX 91.4 FM",
+        "url": "http://142.132.250.174:7673/stream",
+        "favicon": "https://img.logo.dev/foxon914.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "freefm.lk",
+        "url": "https://stream-49.zeno.fm/1tcs4fbw7rquv?zs=uMl9BSttRSuqxlf3fWqc8g",
+        "favicon": "https://img.logo.dev/freefm.lk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Gold FM",
+        "url": "https://radio.lotustechnologieslk.net:2020/stream/goldfmgarden",
+        "favicon": "https://img.logo.dev/goldfm.lk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Gold FM - 93.2 Backup",
+        "url": "https://radio.lotustechnologieslk.net:8000/",
+        "favicon": "https://img.logo.dev/goldfm.lk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Gold FM - 93.2 Backup2",
+        "url": "https://radio.lotustechnologieslk.net:2020/stream/goldfmgarden",
+        "favicon": "https://img.logo.dev/goldfm.lk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Golden Maple Radio",
+        "url": "http://s46.myradiostream.com:11156/listen.mp3",
+        "favicon": "https://img.logo.dev/mytuner-radio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "GumNada",
+        "url": "https://stream-016.zeno.fm/e7ztn80wttzuv?zs=nxo70rmaQ_iSyHrb1K_FQQ",
+        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Hiru FM",
+        "url": "https://radio.lotustechnologieslk.net:2020/stream/hirufmgarden",
+        "favicon": "https://img.logo.dev/hirufm.lk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Hiru FM",
+        "url": "https://radio.lotustechnologieslk.net:2020/stream/hirufmgarden",
+        "favicon": "https://img.logo.dev/hirufm.lk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Hiru FM",
+        "url": "https://radio.lotustechnologieslk.net:2020/stream/hirufmgarden/stream/1/",
+        "favicon": "https://img.logo.dev/hirufm.lk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Hiru FM",
+        "url": "https://radio.lotustechnologieslk.net:2020/stream/hirufmgarden?1707015384",
+        "favicon": "https://img.logo.dev/onlineradiofm.in?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Isira TNL",
+        "url": "http://124.43.10.122:8080/live",
+        "favicon": "https://img.logo.dev/radio.tnltv.lk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Kothmale FM",
+        "url": "https://s11.myradiostream.com:25116/listen.mp3",
+        "favicon": "https://img.logo.dev/kothmalefm.lk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Lakhanda",
+        "url": "https://cp12.serverse.com/proxy/itnfm?mp=/stream",
+        "favicon": "https://img.logo.dev/lakhandaradio.lk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "LAKHANDA RADIO",
+        "url": "https://cp12.serverse.com/proxy/itnfm?mp=/stream&1707017036",
+        "favicon": "https://img.logo.dev/itnfm.lk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Laksara",
+        "url": "https://5a1178b42cc03.streamlock.net/laksara/laksara/chunklist_w1617919055.m3u8",
+        "favicon": "https://img.logo.dev/laksara.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Lakviru Radio",
+        "url": "http://cp11.serverse.com:7643/stream",
+        "favicon": "https://img.logo.dev/shraddha.lk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Lankasri fm",
+        "url": "http://media2.lankasri.fm/;stream.mp3",
+        "favicon": "https://img.logo.dev/lankasri.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Life 87.8 Sri Lanka",
+        "url": "https://srv02.onlineradio.voaplus.com/lite878",
+        "favicon": "https://img.logo.dev/lite878.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Lite 87.8",
+        "url": "https://lite878.com/wp-content/uploads/2020/12/spotifydown.com-Better-Place-From-TROLLS-Band-Together.mp3",
+        "favicon": "https://img.logo.dev/lite878.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "NETH FM",
+        "url": "https://cp11.serverse.com/proxy/nethfm/stream",
+        "favicon": "https://img.logo.dev/nethfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Parani Gee",
+        "url": "http://151.80.42.191:8288/stream",
+        "favicon": "https://img.logo.dev/srilankanrecords.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Parani Gee Radio",
+        "url": "http://151.80.42.191:8288/stream",
+        "favicon": "https://img.logo.dev/srilankanrecords.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Punnagai Radio",
+        "url": "https://onair.punnagairadio.com/8146/stream",
+        "favicon": "https://img.logo.dev/punnagairadio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Plus Hitz",
+        "url": "https://altair.streamerr.co/stream/8054",
+        "favicon": "https://img.logo.dev/radioplus.lk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Plus Sri Lanka",
+        "url": "https://altair.streamerr.co/stream/8036",
+        "favicon": "https://img.logo.dev/radioplus.lk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Plus Sri Lanka",
+        "url": "https://altair.streamerr.co/stream/8036",
+        "favicon": "https://img.logo.dev/radioplus.lk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rajarata Sewaya",
+        "url": "http://220.247.227.20:8000/rajaratastream",
+        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Ran FM",
+        "url": "http://207.148.74.192:7860/ran.mp3",
+        "favicon": "https://img.logo.dev/ranfm.lk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rangiri Sri Lanka",
+        "url": "https://rangiri.radioca.st/stream",
+        "favicon": "https://img.logo.dev/rangirisrilanka.lk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Real Radio Sri Lanka 97.1",
+        "url": "https://srv02.onlineradio.voaplus.com/realfm",
+        "favicon": "https://img.logo.dev/realradio.lk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Sirasa FM",
+        "url": "http://live.trusl.com:1170/;",
+        "favicon": "https://img.logo.dev/sirasa.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Sitha FM",
+        "url": "http://shaincast.caster.fm:48148/listen.mp3",
+        "favicon": "https://img.logo.dev/sithafm.lk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Siyath Fm",
+        "url": "https://srv01.onlineradio.voaplus.com/siyathafm",
+        "favicon": "https://img.logo.dev/siyathafm.lk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Siyath Fm",
+        "url": "https://srv01.onlineradio.voaplus.com/siyathafm",
+        "favicon": "https://img.logo.dev/siyathafm.lk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Siyath Fm",
+        "url": "https://srv01.onlineradio.voaplus.com/siyathafm",
+        "favicon": "https://img.logo.dev/siyathafm.lk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Siyath Fm",
+        "url": "https://srv01.onlineradio.voaplus.com/siyathafm",
+        "favicon": "https://img.logo.dev/siyathafm.lk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Siyatha FM",
+        "url": "http://live.trusl.com:1170/;?type=http&nocache=0",
+        "favicon": "https://img.logo.dev/live.trusl.com:1170?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Siyatha Fm",
+        "url": "https://srv01.onlineradio.voaplus.com/siyathafm",
+        "favicon": "https://img.logo.dev/siyathafm.lk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "siyathafm mine",
+        "url": "https://srv01.onlineradio.voaplus.com/siyathafm",
+        "favicon": "https://img.logo.dev/siyathafm.lk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Sky Radio",
+        "url": "https://cp11.serverse.com/proxy/skyradio/stream",
+        "favicon": "https://img.logo.dev/trn.lk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "SLBC -City FM",
+        "url": "http://220.247.227.20:8000/citystream",
+        "favicon": "https://img.logo.dev/slbc.lk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "SLBC -Radio Sri Lanka",
+        "url": "http://220.247.227.20:8000/RSLstream",
+        "favicon": "https://img.logo.dev/slbc.lk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "SLBC -Swadeshiya Sewaya",
+        "url": "http://220.247.227.6:8000/Snsstream",
+        "favicon": "https://img.logo.dev/slbc.lk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "SLBC -Welanda Sewaya",
+        "url": "http://220.247.227.6:8000/Scomstream",
+        "favicon": "https://img.logo.dev/slbc.lk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "SLBC Tamil National Service",
+        "url": "https://stream-32.zeno.fm/xekhrn4zetzuv?zs=KXT1gTNYSemcxyslV6-vdA",
+        "favicon": "https://img.logo.dev/radiosindia.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Sri FM",
+        "url": "http://207.148.74.192:7860/stream2.mp3",
+        "favicon": "https://img.logo.dev/shreefm.lk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Star FM Srilanka",
+        "url": "https://stream.starfm.lk:12025/stream",
+        "favicon": "https://img.logo.dev/starfm.lk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Sun FM",
+        "url": "https://radio.lotustechnologieslk.net:2020/stream/sunfmgarden",
+        "favicon": "https://img.logo.dev/sunfm.lk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "SunFM",
+        "url": "https://radio.lotustechnologieslk.net:2020/stream/sunfmgarden",
+        "favicon": "https://img.logo.dev/sunfm.lk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Tube Tamil FM Radio டியூப் தமிழ் எஃப்.எம் பண்பலை ரேடியோ",
+        "url": "http://s2.voscast.com:12084/;stream1619441439791/1",
+        "favicon": "https://img.logo.dev/tubetamil.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "V FM",
+        "url": "http://dc1.serverse.com:7178/stream/1/",
+        "favicon": "https://img.logo.dev/vfm.lk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Wellon Radio Cafe",
+        "url": "https://wellonradio.out.airtime.pro/wellonradio_a",
+        "favicon": "https://img.logo.dev/wellonradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "WoW රේඩියෝ",
+        "url": "https://cp11.serverse.com/proxy/wowradio/stream",
+        "favicon": "https://img.logo.dev/trn.lk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Y FM",
+        "url": "https://mbc.thestreamtech.com:7032/index.html",
+        "favicon": "https://img.logo.dev/myy.lk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Y FM",
+        "url": "http://live.trusl.com:1180/;",
+        "favicon": "https://img.logo.dev/yfm.lk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Y FM",
+        "url": "https://mbc.thestreamtech.com:7032/index.html",
+        "favicon": "https://img.logo.dev/myy.lk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Y FM - Hi-Res",
+        "url": "https://mbc.thestreamtech.com:7032/",
+        "favicon": "https://img.logo.dev/myy.lk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Yes FM",
+        "url": "http://live.trusl.com:1150/",
+        "favicon": "https://img.logo.dev/yesfmonline.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Yes FM Online",
+        "url": "http://live.trusl.com:1150/;",
+        "favicon": "https://img.logo.dev/yesfmonline.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "YFM",
+        "url": "https://mbc.thestreamtech.com:7032/index.html",
+        "favicon": "https://img.logo.dev/myy.lk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "YFM-SRiLanka",
+        "url": "https://mbc.thestreamtech.com:7032/index.html",
+        "favicon": "https://img.logo.dev/myy.lk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "தமிழீழ வானொலி -​ Tamil​ Eelam Radio (North​ &​ East)​",
+        "url": "http://stream.zeno.fm/c6mgmtfg8e9uv",
+        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    }
+]

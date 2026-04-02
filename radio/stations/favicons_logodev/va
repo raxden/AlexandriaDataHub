@@ -1,0 +1,77 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Vaticana Belarus",
+        "url": "https://radio.vaticannews.va/stream-be",
+        "favicon": "https://img.logo.dev/vaticannews.va?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Vaticana Bulgaria",
+        "url": "https://radio.vaticannews.va/stream-bg",
+        "favicon": "https://img.logo.dev/vaticannews.va?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Vaticana Čeština",
+        "url": "https://radio.vaticannews.va/stream-cs",
+        "favicon": "https://img.logo.dev/vaticannews.va?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Vaticana Deutsch",
+        "url": "https://radio.vaticannews.va/stream-de",
+        "favicon": "https://img.logo.dev/vaticannews.va?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Vaticana English",
+        "url": "https://radio.vaticannews.va/stream-en",
+        "favicon": "https://img.logo.dev/vaticannews.va?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Vaticana Español spanish",
+        "url": "https://radio.vaticannews.va/stream-es",
+        "favicon": "https://img.logo.dev/vaticannews.va?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Vaticana Hrvatski",
+        "url": "https://radio.vaticannews.va/stream-hr",
+        "favicon": "https://img.logo.dev/vaticannews.va?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Vaticana Italia",
+        "url": "https://radio.vaticannews.va/stream-it",
+        "favicon": "https://img.logo.dev/vaticannews.va?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Vaticana Polska",
+        "url": "https://radio.vaticannews.va/stream-pl",
+        "favicon": "https://img.logo.dev/vaticannews.va?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Vaticana Portuguese",
+        "url": "https://radio.vaticannews.va/stream-pt",
+        "favicon": "https://img.logo.dev/vaticannews.va?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Vaticana România",
+        "url": "https://radio.vaticannews.va/stream-ro",
+        "favicon": "https://img.logo.dev/vaticannews.va?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Vaticana Slovenščina",
+        "url": "https://radio.vaticannews.va/stream-sl",
+        "favicon": "https://img.logo.dev/vaticannews.va?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Vaticana Solvenčina",
+        "url": "https://radio.vaticannews.va/stream-sk",
+        "favicon": "https://img.logo.dev/vaticannews.va?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Vaticana Ukraine",
+        "url": "https://radio.vaticannews.va/stream-uk",
+        "favicon": "https://img.logo.dev/vaticannews.va?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    }
+]

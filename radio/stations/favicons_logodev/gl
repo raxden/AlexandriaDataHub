@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Dfm rtv int160k",
+        "url": "http://213.133.109.221:8205/dfm_1",
+        "favicon": "https://img.logo.dev/dfm.nu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Nanoq FM",
+        "url": "http://getnanoq.retro-radio.dk/Nanoq-TX-1",
+        "favicon": "https://img.logo.dev/nanoqmedia.gl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "test",
+        "url": "https://pub0302.101.ru:8000/stream/pro/aac/64/158?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6Ij",
+        "favicon": "https://img.logo.dev/pub0302.101.ru:8000?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "ΡΑΔΙΟ ΔΙΠΛΟΠΕΝΙΕΣ",
+        "url": "https://play.streams.gr/sc/radiodiplopenies/stream",
+        "favicon": "https://img.logo.dev/radiodiplopenies.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    }
+]

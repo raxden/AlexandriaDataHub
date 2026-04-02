@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Bay 89.7",
+        "url": "https://stream.v3.network/proxy/897bay/stream.mp3?_=1",
+        "favicon": "https://img.logo.dev/bay.com.mt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Bay Easy 100.2",
+        "url": "https://stream.v3.network/proxy/easy/stream.mp3",
+        "favicon": "https://img.logo.dev/bayeasy.mt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Calypso Radio",
+        "url": "https://s4.radio.co/sf3aa4c25a/listen",
+        "favicon": "https://img.logo.dev/calypsomalta.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Campus 103.7",
+        "url": "https://campusfm.radioca.st/campusfm_live",
+        "favicon": "https://img.logo.dev/um.edu.mt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Christmas Radio Malta",
+        "url": "http://philae.shoutca.st:8402/stream?type=http&nocache=165",
+        "favicon": "https://img.logo.dev/christmasradiomalta.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "MALTIN BISS",
+        "url": "https://s4.voscast.com:8837/default",
+        "favicon": "https://img.logo.dev/s4.voscast.com:8837?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "One Radio",
+        "url": "http://s10.voscast.com:8202/stream",
+        "favicon": "https://img.logo.dev/one.com.mt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "One Radio",
+        "url": "http://cdn.voscast.com/resources/?key=249f148a69ad7268c63c10098840e4d6&c=wmp",
+        "favicon": "https://img.logo.dev/one.com.mt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radju Maria Malta",
+        "url": "http://dreamsiteradiocp.com:8102/",
+        "favicon": "https://img.logo.dev/radjumarija.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RADJU MARIJA MALTA",
+        "url": "http://dreamsiteradiocp.com:8102/stream",
+        "favicon": "https://img.logo.dev/radjumarija.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    }
+]

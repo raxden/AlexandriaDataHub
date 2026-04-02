@@ -1,0 +1,117 @@
+[
+    {
+        "name": ". القارئ محمد أيوب",
+        "url": "https://qurango.net/radio/mohammed_ayyub",
+        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": ".. مختصر التفسير",
+        "url": "https://qurango.net/radio/mukhtasartafsir",
+        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Al araby",
+        "url": "https://l3.itworkscdn.net/alarabyradiolive/alarabyradio_audio/icecast.audio",
+        "favicon": "https://img.logo.dev/alaraby.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Al Jazeera - Arabic",
+        "url": "http://live-hls-audio-web-aja.getaj.net/VOICE-AJA/index.m3u8",
+        "favicon": "https://img.logo.dev/aljazeera.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Al Jazeera - Arabic",
+        "url": "http://live-hls-audio-web-aja.getaj.net/VOICE-AJA/index.m3u8",
+        "favicon": "https://img.logo.dev/aljazeera.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Al Jazeera - English",
+        "url": "https://live-hls-audio-web-aje.getaj.net/VOICE-AJE/01.m3u8",
+        "favicon": "https://img.logo.dev/aljazeera.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Al Jazeera Video",
+        "url": "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8",
+        "favicon": "https://img.logo.dev/aljazeera.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Al Jazzera News Audio Hub Live English 20260312",
+        "url": "https://live-hls-web-aje-gcp.thehlive.com/VOICE-AJE/index.m3u8",
+        "favicon": "https://img.logo.dev/aljazeera.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "aljazeera",
+        "url": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8",
+        "favicon": "https://img.logo.dev/live-hls-web-aja.getaj.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Aljazeera Arabic",
+        "url": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8",
+        "favicon": "https://img.logo.dev/aljazeera.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Habaib",
+        "url": "https://lit-cast.com/proxy/habaiebfm/stream",
+        "favicon": "https://img.logo.dev/habaieb.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Qabayan Radio 94.3 FM",
+        "url": "https://c2.radioboss.fm:18478/stream",
+        "favicon": "https://img.logo.dev/qabayanfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Qabayan Radio 94.3 FM (FLAC)",
+        "url": "https://c2.radioboss.fm:8478/live",
+        "favicon": "https://img.logo.dev/qabayanfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Olive 106.3",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLIVE1063AAC.aac",
+        "favicon": "https://img.logo.dev/olive.qa?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Olive 106.3 - Jiyo Bindass",
+        "url": "https://22733.live.streamtheworld.com/OLIVE1063.mp3",
+        "favicon": "https://img.logo.dev/olive.qa?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "SUNO 91.7",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUNO917.mp3",
+        "favicon": "https://img.logo.dev/suno.qa?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Suno Malayalam FM",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUNO917.mp3",
+        "favicon": "https://img.logo.dev/suno.qa?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "إذاعة طريق السلف",
+        "url": "https://airtime.salafwayfm.ly/",
+        "favicon": "https://img.logo.dev/airtime.salafwayfm.ly?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "اذاعة القرآن الكريم",
+        "url": "http://stream.radiojar.com/0tpy1h0kxtzuv",
+        "favicon": "https://img.logo.dev/stream.radiojar.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "الجزيرة صوت",
+        "url": "https://live-hls-audio-web-aja.getaj.net/VOICE-AJA/01.m3u8",
+        "favicon": "https://img.logo.dev/live-hls-audio-web-aja.getaj.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "تفسير بن عثيمين رحمه الله",
+        "url": "https://qurango.net/radio/tafseer",
+        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "قناة الجزيرة",
+        "url": "https://live-hls-web-aja.getaj.net/AJA/06.m3u8",
+        "favicon": "https://img.logo.dev/aljazeera.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    }
+]

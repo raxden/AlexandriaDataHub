@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "https://stream.svobodnoe.media/freemp3",
+        "url": "https://stream.svobodnoe.media/freemp3",
+        "favicon": "https://img.logo.dev/stream.svobodnoe.media?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Krem Radio",
+        "url": "http://159.65.32.199:8016/;",
+        "favicon": "https://img.logo.dev/krembz.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Riddim Radio",
+        "url": "https://stream.zeno.fm/nw7xmuzasyduv",
+        "favicon": "https://img.logo.dev/riddimradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    }
+]

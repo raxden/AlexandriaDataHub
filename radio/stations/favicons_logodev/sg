@@ -1,0 +1,307 @@
+[
+    {
+        "name": "938 Now Radio",
+        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/938NOWAAC.aac",
+        "favicon": "https://img.logo.dev/meradio.sg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "973FM Blasts That Last",
+        "url": "http://c16.radioboss.fm:8115/autodj",
+        "favicon": "https://img.logo.dev/973fm.weebly.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "973FM: Blasts That Last radio",
+        "url": "https://c16.radioboss.fm:18115/stream?icecast",
+        "favicon": "https://img.logo.dev/global.superradio.cc?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "987",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/987FM_PREM.aac",
+        "favicon": "https://img.logo.dev/melisten.sg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "987",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/987FM_PREM.aac",
+        "favicon": "https://img.logo.dev/melisten.sg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "987",
+        "url": "https://14033.live.streamtheworld.com/987FM_SC",
+        "favicon": "https://img.logo.dev/melisten.sg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "987FM",
+        "url": "https://22393.live.streamtheworld.com/987FM_PREM.aac",
+        "favicon": "https://img.logo.dev/melisten.sg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "AXR Manila",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AXR_MANILA.mp3",
+        "favicon": "https://img.logo.dev/axr.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "AXR Singapore",
+        "url": "http://singaporestream.axr.online/",
+        "favicon": "https://img.logo.dev/axr.co?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "AXR Singapore",
+        "url": "http://22243.live.streamtheworld.com:3690/AXR_SINGAPORE_SC",
+        "favicon": "https://img.logo.dev/axr.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Beam FM",
+        "url": "https://beamfm.streeemer.com/listen/beam_fm/radio.aac",
+        "favicon": "https://img.logo.dev/x.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Bible Witness Web Radio",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3179571_SC",
+        "favicon": "https://img.logo.dev/biblewitness.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "CAPITAL 958",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CAPITAL958FM_PREM.aac",
+        "favicon": "https://img.logo.dev/melisten.sg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Capital 958 Radio",
+        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/CAPITAL958FMAAC.aac",
+        "favicon": "https://img.logo.dev/meradio.sg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Channel News Asia TV",
+        "url": "http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8",
+        "favicon": "https://img.logo.dev/channelnewsasia.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "CLASS 95",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95_PREM.aac",
+        "favicon": "https://img.logo.dev/melisten.sg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Class 95 Radio",
+        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95AAC.aac",
+        "favicon": "https://img.logo.dev/meradio.sg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "CNA 938",
+        "url": "https://22893.live.streamtheworld.com/938NOW_SC",
+        "favicon": "https://img.logo.dev/melisten.sg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "CNA 938 Live Singapore",
+        "url": "http://19183.live.streamtheworld.com:3690/938NOW_PREM_SC",
+        "favicon": "https://img.logo.dev/channelnewsasia.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "CNA938",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/938NOW_PREM.aac",
+        "favicon": "https://img.logo.dev/melisten.sg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "CNA938",
+        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/938NOW_PREM.m3u8",
+        "favicon": "https://img.logo.dev/playerservices.streamtheworld.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "GOLD 905",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/GOLD905_PREM.aac",
+        "favicon": "https://img.logo.dev/melisten.sg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "GOLD 905",
+        "url": "https://22403.live.streamtheworld.com/GOLD905_SC",
+        "favicon": "https://img.logo.dev/melisten.sg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Gold 905 Radio",
+        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/GOLD905AAC.aac",
+        "favicon": "https://img.logo.dev/meradio.sg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "indiego",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/INDIEGO_S01_PREM.aac",
+        "favicon": "https://img.logo.dev/melisten.sg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Jia 883 Radio",
+        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/883JIAAAC.aac",
+        "favicon": "https://img.logo.dev/883jia.com.sg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "kiss92",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_92_SC",
+        "favicon": "https://img.logo.dev/kiss92.sg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Kiss92",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_92_SC",
+        "favicon": "https://img.logo.dev/kiss92.sg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Love 972",
+        "url": "http://22903.live.streamtheworld.com/LOVE972FMAAC.aac",
+        "favicon": "https://img.logo.dev/22903.live.streamtheworld.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "LOVE 972",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOVE972FM_PREM.aac",
+        "favicon": "https://img.logo.dev/melisten.sg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Love 972 Radio",
+        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/LOVE972FMAAC.aac",
+        "favicon": "https://img.logo.dev/meradio.sg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Mediacorp 987 Radio",
+        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/987FMAAC.aac",
+        "favicon": "https://img.logo.dev/meradio.sg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Money 893 Radio",
+        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/MONEY_893AAC.aac",
+        "favicon": "https://img.logo.dev/moneyfm893.sg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Money FM 89.3",
+        "url": "https://22243.live.streamtheworld.com/MONEY_893AAC.aac?dist=sphradio-web&gdpr=0&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=f94bbefc-acee-4c13-ed7b-9accdb44b7a2",
+        "favicon": "https://img.logo.dev/moneyfm893.sg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Oli 96.8 FM",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLI968FMAAC.aac",
+        "favicon": "https://img.logo.dev/melisten.sg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "OLI 968",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLI968FM_PREM.aac",
+        "favicon": "https://img.logo.dev/melisten.sg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Oli 968 Radio",
+        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/OLI968FMAAC.aac",
+        "favicon": "https://img.logo.dev/meradio.sg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "ONE FM",
+        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/one_FM_913AAC.aac?dist=radiosingaporeapp",
+        "favicon": "https://img.logo.dev/playerservices.streamtheworld.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "One FM 91.3",
+        "url": "https://22283.live.streamtheworld.com/ONE_FM_913AAC_SC",
+        "favicon": "https://img.logo.dev/onefm.sg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "ONE FM 91.3 SPH AAC",
+        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/ONE_FM_913AAC.aac",
+        "favicon": "https://img.logo.dev/onefm.sg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Power 98 Love Songs",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/POWER98_LOVESONGS.mp3",
+        "favicon": "https://img.logo.dev/camokakis.sg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Melody with Brother Bjorn",
+        "url": "https://ssl.geckohost.nz/proxy/bjorn?mp=/stream&1703130377563",
+        "favicon": "https://img.logo.dev/rmelody.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Melody with Brother Bjorn",
+        "url": "http://ssl.geckohost.nz:9191/autodj",
+        "favicon": "https://img.logo.dev/onlineradiobox.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RIA 897",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RIA897FM_PREM.aac",
+        "favicon": "https://img.logo.dev/melisten.sg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RIA 897",
+        "url": "https://22393.live.streamtheworld.com/RIA897FM_SC",
+        "favicon": "https://img.logo.dev/melisten.sg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Ria 897 Radio",
+        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/RIA897FMAAC.aac",
+        "favicon": "https://img.logo.dev/meradio.sg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Singapore Chinese POP YES FM 933",
+        "url": "https://22893.live.streamtheworld.com/YES933_SC?dist=radiosingapore",
+        "favicon": "https://img.logo.dev/melisten.sg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "SPH 963 Radio",
+        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.aac",
+        "favicon": "https://img.logo.dev/963haofm.sg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Symphony 924",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SYMPHONY924_PREM.aac",
+        "favicon": "https://img.logo.dev/melisten.sg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Symphony 924 Radio",
+        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SYMPHONY924AAC.aac",
+        "favicon": "https://img.logo.dev/meradio.sg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "UFM 100.3 Radio",
+        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/UFM_1003AAC.aac",
+        "favicon": "https://img.logo.dev/ufm1003.sg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Ufm 1003",
+        "url": "http://28093.live.streamtheworld.com/UFM_1003AAC.aac",
+        "favicon": "https://img.logo.dev/28093.live.streamtheworld.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Warna",
+        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FMAAC.aac",
+        "favicon": "https://img.logo.dev/annarazak68.duckdns.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "WARNA 942",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FM_PREM.aac",
+        "favicon": "https://img.logo.dev/melisten.sg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Warna 942 Radio",
+        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FMAAC.aac",
+        "favicon": "https://img.logo.dev/meradio.sg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "YES 933",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/YES933_PREM.aac",
+        "favicon": "https://img.logo.dev/melisten.sg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Yes 933",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/YES933AAC_SC",
+        "favicon": "https://img.logo.dev/playerservices.streamtheworld.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "YES 933",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/YES933_PREM.aac",
+        "favicon": "https://img.logo.dev/melisten.sg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Yes 933",
+        "url": "http://28453.live.streamtheworld.com/YES933AAC.aac",
+        "favicon": "https://img.logo.dev/28453.live.streamtheworld.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "YES 933 Radio",
+        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/YES933AAC.aac",
+        "favicon": "https://img.logo.dev/meradio.sg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    }
+]

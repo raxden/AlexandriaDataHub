@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Capitalk 100.4FM Harare",
+        "url": "https://edge.iono.fm/xice/162_medium.aac",
+        "favicon": "https://img.logo.dev/capitalkfm.co.zw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "CENTRAL RADIO 98.5",
+        "url": "https://centralstream.zbc.co.zw:8000/radio.mp3",
+        "favicon": "https://img.logo.dev/centralradio.co.zw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Nehanda Radio",
+        "url": "https://eu4.fastcast4u.com/proxy/lancguma?mp=/1",
+        "favicon": "https://img.logo.dev/nehandaradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Star FM 89.7",
+        "url": "https://edge.iono.fm/xice/159_medium.aac",
+        "favicon": "https://img.logo.dev/starfm.co.zw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Star FM 89.7",
+        "url": "https://edge.iono.fm/xice/159_medium.aac",
+        "favicon": "https://img.logo.dev/streema.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    }
+]

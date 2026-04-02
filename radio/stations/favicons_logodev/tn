@@ -1,0 +1,387 @@
+[
+    {
+        "name": ".Beautiful recitation",
+        "url": "https://qurango.net/radio/salma",
+        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": ".شهر رمضان",
+        "url": "https://qurango.net/radio/ramadan",
+        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": ".صور من حياة الصحابة",
+        "url": "https://qurango.net/radio/sahabah",
+        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": ".مختصر السيرة",
+        "url": "https://qurango.net/radio/almukhtasar_fi_alsiyra",
+        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "#رواية قالون",
+        "url": "https://backup.qurango.net/radio/ahmad_khader_altarabulsi",
+        "favicon": "https://img.logo.dev/backup.qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Al quran radio",
+        "url": "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g",
+        "favicon": "https://img.logo.dev/n0a.radiojar.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "AlHayet FM",
+        "url": "https://manager8.streamradio.fr:2885/stream",
+        "favicon": "https://img.logo.dev/alhayetfm.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Ambiance FM",
+        "url": "https://stream.zeno.fm/0rehsamc9xxtv",
+        "favicon": "https://img.logo.dev/ambiancefm.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Diwan FM",
+        "url": "https://streaming.diwanfm.net/stream",
+        "favicon": "https://img.logo.dev/diwanfm.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "diwanfm",
+        "url": "https://streaming.diwanfm.net/stream",
+        "favicon": "https://img.logo.dev/diwanfm.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Jawhara FM",
+        "url": "http://streaming2.toutech.net:8000/jawharafm",
+        "favicon": "https://img.logo.dev/jawharafm.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Jawhara FM",
+        "url": "https://streaming2.toutech.net/jawharafm",
+        "favicon": "https://img.logo.dev/m.jawharafm.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "KnOOz FM",
+        "url": "http://streaming.knoozfm.net:8000/knoozfm",
+        "favicon": "https://img.logo.dev/knoozfm.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Lotfi Slama",
+        "url": "https://azuracast.conceptradio.fr:8000/radio.mp3",
+        "favicon": "https://img.logo.dev/radiotunisiamed.wixsite.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Mosaique FM",
+        "url": "http://radio.mosaiquefm.net:8000/mosalive",
+        "favicon": "https://img.logo.dev/mosaiquefm.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Mosaique FM",
+        "url": "https://radio.mosaiquefm.net/mosalive",
+        "favicon": "https://img.logo.dev/radio.mosaiquefm.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Mosaique FM",
+        "url": "https://radio.mosaiquefm.net/mosalive",
+        "favicon": "https://img.logo.dev/mosaiquefm.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Mosaique FM DJ",
+        "url": "https://radio.mosaiquefm.net/mosadj",
+        "favicon": "https://img.logo.dev/mosaiquefm.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Mosaique FM Gold",
+        "url": "https://radio.mosaiquefm.net/mosagold",
+        "favicon": "https://img.logo.dev/mosaiquefm.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Mosaique FM Tarab",
+        "url": "https://radio.mosaiquefm.net/mosatarab",
+        "favicon": "https://img.logo.dev/mosaiquefm.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Mosaique FM Tounsi",
+        "url": "https://radio.mosaiquefm.net/mosatounsi",
+        "favicon": "https://img.logo.dev/mosaiquefm.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "mosaiquefm",
+        "url": "https://radio.mosaiquefm.net/mosalive",
+        "favicon": "https://img.logo.dev/mosaiquefm.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "oxygene fm",
+        "url": "http://stream.radios-arra.fr:8000/oxygenefm",
+        "favicon": "https://img.logo.dev/oxygenefm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "radio coran",
+        "url": "http://n0b.radiojar.com/0tpy1h0kxtzuv?",
+        "favicon": "https://img.logo.dev/n0b.radiojar.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Express FM",
+        "url": "https://expressfm.ice.infomaniak.ch/expressfm-64.mp3",
+        "favicon": "https://img.logo.dev/radioexpressfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Express FM",
+        "url": "https://expressfm.ice.infomaniak.ch/expressfm-64.mp3",
+        "favicon": "https://img.logo.dev/radioexpressfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio fouedb Music",
+        "url": "https://streaming.live365.com/a82574",
+        "favicon": "https://img.logo.dev/radiofouedbmusic.weebly.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "radio gafsa",
+        "url": "http://rtstream.tanitweb.com/gafsa",
+        "favicon": "https://img.logo.dev/radiotataouine.tn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Kef",
+        "url": "http://rtstream.tanitweb.com/kef",
+        "favicon": "https://img.logo.dev/radiokef.tn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Misk",
+        "url": "https://live.misk.art/stream",
+        "favicon": "https://img.logo.dev/misk.art?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Monastir",
+        "url": "https://radio.radiotunisienne.tn/monastir",
+        "favicon": "https://img.logo.dev/radiomonastir.tn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Tunisia Med",
+        "url": "https://azuracast.conceptradio.fr:8000/radio.mp3",
+        "favicon": "https://img.logo.dev/radiotunisiamed.wixsite.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Tunisie Culturelle",
+        "url": "http://rtstream.tanitweb.com/culturelle",
+        "favicon": "https://img.logo.dev/radioculturelle.tn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Tunisie Culturelle",
+        "url": "http://rtstream.tanitweb.com/culturelle",
+        "favicon": "https://img.logo.dev/radioculturelle.tn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Tunisie Gafsa",
+        "url": "http://rtstream.tanitweb.com/gafsa",
+        "favicon": "https://img.logo.dev/radiogafsa.tn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Tunisie Jeunes",
+        "url": "http://rtstream.tanitweb.com/jeunes",
+        "favicon": "https://img.logo.dev/radiojeunes.tn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Tunisie Kef",
+        "url": "http://rtstream.tanitweb.com/kef",
+        "favicon": "https://img.logo.dev/radiokef.tn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Tunisie Monastir",
+        "url": "http://rtstream.tanitweb.com/monastir",
+        "favicon": "https://img.logo.dev/radiomonastir.tn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Tunisie Nationale",
+        "url": "http://rtstream.tanitweb.com/nationale",
+        "favicon": "https://img.logo.dev/radionationale.tn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Tunisie Sfax",
+        "url": "http://rtstream.tanitweb.com/sfax",
+        "favicon": "https://img.logo.dev/radiosfax.tn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Tunisie Sfax",
+        "url": "http://rtstream.tanitweb.com/sfax",
+        "favicon": "https://img.logo.dev/radiosfax.tn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Tunisie Tataouine",
+        "url": "http://rtstream.tanitweb.com/tataouine",
+        "favicon": "https://img.logo.dev/radiotataouine.tn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RTCI",
+        "url": "http://rtstream.tanitweb.com/rtci",
+        "favicon": "https://img.logo.dev/rtci.tn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Sabra FM",
+        "url": "https://manager5.streamradio.fr:1905/stream",
+        "favicon": "https://img.logo.dev/radiosabrafm.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Sfax FM",
+        "url": "http://rtstream.tanitweb.com/sfax",
+        "favicon": "https://img.logo.dev/radiosfax.tn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Sodais",
+        "url": "https://backup.qurango.net/radio/abdulrahman_alsudaes",
+        "favicon": "https://img.logo.dev/backup.qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "sunnah radio",
+        "url": "http://andromeda.shoutca.st:8189/stream",
+        "favicon": "https://img.logo.dev/andromeda.shoutca.st:8189?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Zitouna Zitouna FM",
+        "url": "https://radio.radiotunisienne.tn/radiozaitouna",
+        "favicon": "https://img.logo.dev/zitounafm.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "آيات السكينة",
+        "url": "https://qurango.net/radio/sakeenah",
+        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "أذكار الصباح",
+        "url": "https://qurango.net/radio/athkar_sabah",
+        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "أذكار المساء",
+        "url": "https://qurango.net/radio/athkar_masa",
+        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "إذاعة السنة",
+        "url": "http://andromeda.shoutca.st:8189/live",
+        "favicon": "https://img.logo.dev/andromeda.shoutca.st:8189?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "إذاعة الفتاوى العامة",
+        "url": "https://qurango.net/radio/fatwa",
+        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "إذاعة القرآن الكريم",
+        "url": "http://stream.radiojar.com/0tpy1h0kxtzuv",
+        "favicon": "https://img.logo.dev/stream.radiojar.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "إذاعة القرآن الكريم",
+        "url": "http://stream.radiojar.com/0tpy1h0kxtzuv",
+        "favicon": "https://img.logo.dev/stream.radiojar.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "إذاعة القرآن الكريم",
+        "url": "http://stream.radiojar.com/0tpy1h0kxtzuv",
+        "favicon": "https://img.logo.dev/twitter.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "إذاعة طريق السلف",
+        "url": "https://airtime.salafwayfm.ly/",
+        "favicon": "https://img.logo.dev/salafwayfm.ly?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "إذاعة محمد أيوب",
+        "url": "https://qurango.net/radio/mohammed_ayyub",
+        "favicon": "https://img.logo.dev/mp3quran.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "إذاعة محمد أيوب",
+        "url": "https://qurango.net/radio/mohammed_ayyub",
+        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "إذاعة ميراث الأنبياء",
+        "url": "https://radio.al7eah.net/8028/;",
+        "favicon": "https://img.logo.dev/radio.al7eah.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "الإختيارات الفقهية لإبن باز",
+        "url": "https://qurango.net/radio/alaikhtiarat_alfiqhayh_bin_baz",
+        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "الشيخ سعد الغامدي",
+        "url": "https://qurango.net/radio/saad_alghamdi",
+        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "الشيخ صلاح بو خاطر",
+        "url": "https://qurango.net/radio/slaah_bukhatir",
+        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "الشيخ فارس عباد",
+        "url": "https://qurango.net/radio/fares_abbad",
+        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "المختصر في التفسير",
+        "url": "https://qurango.net/radio/mukhtasartafsir",
+        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "تراتيل",
+        "url": "https://qurango.net/radio/tarateel",
+        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "تفسير بن عثيمين رحمه الله تعالى",
+        "url": "https://qurango.net/radio/tafseer",
+        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "تكبيرات العيد",
+        "url": "https://qurango.net/radio/eid",
+        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "راديو جنجر للاطفال",
+        "url": "https://arabkidsradio.art/radio/8000/radio.mp3",
+        "favicon": "https://img.logo.dev/radio.janjerlearning.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "راديو فن    Fenn Radio",
+        "url": "https://stream.zeno.fm/76e9f1gsduhvv",
+        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "ستة شوال",
+        "url": "https://qurango.net/radio/SixDaysOfShawwal",
+        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "عشر ذي الحجة",
+        "url": "https://qurango.net/radio/ten_dhul_hijjah",
+        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "في ضلال السيرة النبوية",
+        "url": "https://qurango.net/radio/fi_zilal_alsiyra",
+        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "قراءات متنوعة",
+        "url": "https://qurango.net/radio/mix",
+        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "قراءات متنوعة",
+        "url": "https://qurango.net/radio/mix",
+        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "يوم عاشوراء",
+        "url": "https://qurango.net/radio/TheDayofAshoora",
+        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    }
+]

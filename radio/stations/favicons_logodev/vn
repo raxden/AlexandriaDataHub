@@ -1,0 +1,187 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Bolsa Radio VN",
+        "url": "http://stream.zenolive.com/ueychbrzv9duv",
+        "favicon": "https://img.logo.dev/stream.zenolive.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "CAND",
+        "url": "https://lives.antv.gov.vn/channel/antv/channel/antv_480p/chunks.m3u8",
+        "favicon": "https://img.logo.dev/lives.antv.gov.vn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "CAND",
+        "url": "https://cf9a5872ebf6f9a.cmccloud.com.vn/ANTV/antv1.m3u8",
+        "favicon": "https://img.logo.dev/cf9a5872ebf6f9a.cmccloud.com.vn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "CHẠM RADIO",
+        "url": "https://vnno-ne-2-tf-multi-playlist-zmp3.zmdcdn.me/j20SDlO5EQk/zhls/playback-realtime/audio/59a2ee0ed24b3b15625a/audio.m3u8",
+        "favicon": "https://img.logo.dev/vnno-ne-2-tf-multi-playlist-zmp3.zmdcdn.me?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Cherry Radio Music 247",
+        "url": "https://stream-176.zeno.fm/umt5gqmg3reuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1bXQ1Z3FtZzNyZXV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkNZUXVUREM3VGNtTjEyblNnR0x4UkEiLCJpYXQiOjE3Mjk3NDI5MzAsImV4cCI6MTcyOTc0Mjk5MH0.nXD9Wgj-wiNAqBZ-Pdh_3sfnI3b-Nsa4DwbcZgO1o5I&adtonosListenerId=01JAYBBMWV0MGTJKRSBW480E4Z",
+        "favicon": "https://img.logo.dev/stream-176.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "CRI Tiếng Việt",
+        "url": "https://ice5.securenetsystems.net:80/KALI",
+        "favicon": "https://img.logo.dev/ice5.securenetsystems.net:80?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Digital Radio Hongkong",
+        "url": "http://ice.digitalradiohk.net:8000/drhk",
+        "favicon": "https://img.logo.dev/ice.digitalradiohk.net:8000?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "FM HANOI 90 MHz",
+        "url": "http://14.162.146.90:8000/HANOI90",
+        "favicon": "https://img.logo.dev/e.mytuner-radio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "FM HANOI 96 MHz",
+        "url": "http://222.252.21.96:8000/HANOI96",
+        "favicon": "https://img.logo.dev/e.mytuner-radio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "KALI SAIGON",
+        "url": "https://ice5.securenetsystems.net:80/KALI",
+        "favicon": "https://img.logo.dev/ice5.securenetsystems.net:80?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Kien Giang Radio",
+        "url": "http://tv.kgtv.vn/live/kgaudio/kgaudio.m3u8",
+        "favicon": "https://img.logo.dev/kgtv.vn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Kien Giang TV",
+        "url": "http://tv.kgtv.vn/live/kgtv/kgtv.m3u8",
+        "favicon": "https://img.logo.dev/kgtv.vn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Kien Giang TV-1",
+        "url": "http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8",
+        "favicon": "https://img.logo.dev/kgtv.vn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "L0ves0n9scafe",
+        "url": "http://listen.57fm.com/lscafe",
+        "favicon": "https://img.logo.dev/listen.57fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Little Saigon Radio",
+        "url": "https://stream-148.zeno.fm/kxynzu2qe7duv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJreHluenUycWU3ZHV2IiwiaG9zdCI6InN0cmVhbS0xNDguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IklCSlYyMXNuVC02QUFEWTVhQTUxWmciLCJpYXQiOjE3Mjk4MzExMTcsImV4cCI6MTcyOTgzMTE3N30.MnLyarUeN7gD-e-g1fZiD0UQWGzpIaPx7o3vYOhQCfk",
+        "favicon": "https://img.logo.dev/stream-148.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "M Radio Vietnam",
+        "url": "https://stream-155.zeno.fm/4q7y9hvkp2zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0cTd5OWh2a3AyenV2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImlpeGFsbUNWVE51cGxub1h2eE9NTmciLCJpYXQiOjE3MzE1NTExNjIsImV4cCI6MTczMTU1MTIyMn0.RQUqatQ8CtSaIcvH9kT1xRfeuptGIM13jzFd-2SehU0&aw_0_req_lsid=8196d2c78a734f244852a3f8bbbecbcb",
+        "favicon": "https://img.logo.dev/stream-155.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Nhân dân TV",
+        "url": "https://arpt.tvic.vn/live/nhandan720/chunklist_w1899174222.m3u8",
+        "favicon": "https://img.logo.dev/arpt.tvic.vn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "REPLAY NEWS - Tiếng Việt   Radio tin tức mỗi 5 phút",
+        "url": "https://replaynewsvi.ice.infomaniak.ch/replaynewsve-128.mp3",
+        "favicon": "https://img.logo.dev/replaynews.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RFI Tiếng Việt",
+        "url": "https://rfienvietnamien64k.ice.infomaniak.ch/rfienvietnamien-64.mp3",
+        "favicon": "https://img.logo.dev/rfienvietnamien64k.ice.infomaniak.ch?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Saigon Houston AM900",
+        "url": "http://142.4.215.82:8070/stream?type=http&nocache=151",
+        "favicon": "https://img.logo.dev/142.4.215.82:8070?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "TNT Atlanta Radio",
+        "url": "https://cast4.servcast.net/proxy/longpham2/stream",
+        "favicon": "https://img.logo.dev/cast4.servcast.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "VIET WASHINGTON DC",
+        "url": "http://varadio.serverroom.net:7968/",
+        "favicon": "https://img.logo.dev/varadio.serverroom.net:7968?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Viet Washington DC",
+        "url": "http://varadio.serverroom.net:7968/",
+        "favicon": "https://img.logo.dev/varadio.serverroom.net:7968?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Vietnamese National People",
+        "url": "http://c13.radioboss.fm:8127/stream",
+        "favicon": "https://img.logo.dev/c13.radioboss.fm:8127?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "VOH AM 610",
+        "url": "https://strm.voh.com.vn/radio/channel2/chunklist_w884773542.m3u8",
+        "favicon": "https://img.logo.dev/voh.com.vn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "VOH FM 87.7",
+        "url": "https://strm.voh.com.vn/radio/channel5/chunklist_w2071193605.m3u8",
+        "favicon": "https://img.logo.dev/voh.com.vn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "VOH FM 95.6",
+        "url": "https://strm.voh.com.vn/radio/channel1/chunklist_w829828563.m3u8",
+        "favicon": "https://img.logo.dev/voh.com.vn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "VOH FM 99.9",
+        "url": "https://strm.voh.com.vn/radio/channel3/chunklist_w1005696319.m3u8",
+        "favicon": "https://img.logo.dev/voh.com.vn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "VOV English 24/7",
+        "url": "https://stream.vovmedia.vn/vov247",
+        "favicon": "https://img.logo.dev/vovworld.vn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "VOV Giao thông Hà Nội",
+        "url": "https://play.vovgiaothong.vn/live/gthn/playlist.m3u8",
+        "favicon": "https://img.logo.dev/vovgiaothong.vn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "VOV GT HCM",
+        "url": "https://play.vovgiaothong.vn/live/gthcm/playlist.m3u8",
+        "favicon": "https://img.logo.dev/play.vovgiaothong.vn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "VOV Mekong",
+        "url": "https://stream.vovmedia.vn/vovmekong",
+        "favicon": "https://img.logo.dev/vovmedia.vn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "VOV1",
+        "url": "https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8",
+        "favicon": "https://img.logo.dev/vov1.vov.gov.vn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "VOV5 WORLD RADIO",
+        "url": "https://stream.vovmedia.vn/vov5",
+        "favicon": "https://img.logo.dev/vovworld.vn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "XONE FM",
+        "url": "https://vnno-ne-2-tf-multi-playlist-zmp3.zmdcdn.me/Wbo0diyYozY/zhls/playback-realtime/audio/e75e51f26db784e9dda6/audio.m3u8",
+        "favicon": "https://img.logo.dev/vnno-ne-2-tf-multi-playlist-zmp3.zmdcdn.me?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "ZING BOLERO",
+        "url": "https://vnno-ne-3-tf-multi-playlist-zmp3.zmdcdn.me/BJ7DyJjfG_E/zhls/playback-realtime/audio/5bace800d4453d1b6454/audio.m3u8",
+        "favicon": "https://img.logo.dev/vnno-ne-3-tf-multi-playlist-zmp3.zmdcdn.me?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    }
+]

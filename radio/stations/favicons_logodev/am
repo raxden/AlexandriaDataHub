@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Armenian Bible Study Radio",
+        "url": "https://ssl.nexuscast.com:8082/stream?type=http&nocache=30722",
+        "favicon": "https://img.logo.dev/armenianbiblestudy.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Armenian Christian Radio - Bashde Radio",
+        "url": "https://streams.radio.co/sa0bf8ec29/listen?sid=1",
+        "favicon": "https://img.logo.dev/bashde.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "av",
+        "url": "https://surrit.com/b4162a97-f7ed-433f-872d-f3e1741d9dac/playlist.m3u8",
+        "favicon": "https://img.logo.dev/surrit.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Fama",
+        "url": "http://eu.stream4cast.com:8036/stream/",
+        "favicon": "https://img.logo.dev/radiofama.am?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Kiss FM Armenia",
+        "url": "https://am.radioaurora.am/kiss",
+        "favicon": "https://img.logo.dev/kissfm.am?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Lav Radio Mix",
+        "url": "http://live.lavradio.am:8006/stream2",
+        "favicon": "https://img.logo.dev/lavradio.am?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "LOVE RADIO",
+        "url": "https://loveradio.streamingmedia.it/play",
+        "favicon": "https://img.logo.dev/loveradio.streamingmedia.it?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Luys TV Western Armenian TV",
+        "url": "http://luyse.mediatriple.net/luystv/luystv.smil/playlist.m3u8",
+        "favicon": "https://img.logo.dev/luys.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "MFM Music Radio",
+        "url": "https://eu.stream4cast.com/proxy/mfmradio/stream",
+        "favicon": "https://img.logo.dev/mfm.am?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Aurora",
+        "url": "http://am.radioaurora.am:8010/al.mp3",
+        "favicon": "https://img.logo.dev/radioaurora.am?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio AYK",
+        "url": "http://s3.streammonster.com:8117/;",
+        "favicon": "https://img.logo.dev/radioayk.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Marshall",
+        "url": "https://eu.stream4cast.com/proxy/marshallfm/stream",
+        "favicon": "https://img.logo.dev/radiomarshall.am?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio VAN",
+        "url": "http://stream.radiovan.fm/stream/index.m3u8",
+        "favicon": "https://img.logo.dev/radiovan.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    }
+]

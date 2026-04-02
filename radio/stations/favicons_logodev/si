@@ -1,0 +1,642 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Ars",
+        "url": "http://mp3.rtvslo.si/ars",
+        "favicon": "https://img.logo.dev/ars.rtvslo.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "bAm BaM RADIO - All shades of house",
+        "url": "https://stream.laidbackvib.es:8888/320",
+        "favicon": "https://img.logo.dev/bambamradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Best FM Ljubljana",
+        "url": "https://live.radio.si/BestFM",
+        "favicon": "https://img.logo.dev/bestfm.svet24.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "BestFM",
+        "url": "https://live.radio.si/BestFM",
+        "favicon": "https://img.logo.dev/bestfm.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "FRAJER RADIO",
+        "url": "https://stream.nextmedia.si/proxy/frajer_1?mp=/frajer?uid=frjweb;",
+        "favicon": "https://img.logo.dev/radiofrajer.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Gorenjska TV",
+        "url": "http://91.220.221.60/gtv_hls/gtv.m3u8",
+        "favicon": "https://img.logo.dev/gtv.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Hit Radio Center (Ljubljana - 102.4MHz)",
+        "url": "http://stream3.radiocenter.si:8000/;center/1",
+        "favicon": "https://img.logo.dev/radiocenter.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Hitradio Center",
+        "url": "http://stream3.radiocenter.si:8000/center",
+        "favicon": "https://img.logo.dev/radiocenter.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Hitradio Center",
+        "url": "http://stream2.radiocenter.si:8058/stream",
+        "favicon": "https://img.logo.dev/radiocenter.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Hitradio center 80's",
+        "url": "http://stream3.radiocenter.si:8064/;stream/1",
+        "favicon": "https://img.logo.dev/radiocenter.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Hitradio center fresh pop",
+        "url": "http://stream3.radiocenter.si:8058/;stream/1",
+        "favicon": "https://img.logo.dev/radiocenter.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Hitradio center latin",
+        "url": "http://stream3.radiocenter.si:8200/;stream/1",
+        "favicon": "https://img.logo.dev/radiocenter.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Hitradio center love",
+        "url": "http://stream3.radiocenter.si:8060/;stream/1",
+        "favicon": "https://img.logo.dev/radiocenter.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Hitradio center megamix",
+        "url": "http://stream3.radiocenter.si:8066/;stream/1",
+        "favicon": "https://img.logo.dev/radiocenter.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Hitradio center rock",
+        "url": "http://stream.rockradio.si:9034/;stream/1",
+        "favicon": "https://img.logo.dev/radiocenter.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Hitradio center top 100",
+        "url": "http://stream3.radiocenter.si:9020/;stream/1",
+        "favicon": "https://img.logo.dev/radiocenter.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Hitradio center yu",
+        "url": "http://stream3.radiocenter.si:8100/;stream/1",
+        "favicon": "https://img.logo.dev/radiocenter.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "MARŠ 95,9 MHz",
+        "url": "http://frekvenca.eu:8000/radiomars.mp3",
+        "favicon": "https://img.logo.dev/radiomars.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Muravidéki Magyar Rádió",
+        "url": "http://mp3.rtvslo.si/mmr",
+        "favicon": "https://img.logo.dev/rtvslo.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radi Frajer",
+        "url": "https://stream2.nextmedia.si/hls/frj/128k/frj-128.m3u8",
+        "favicon": "https://img.logo.dev/radiofrajer.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio 1",
+        "url": "https://live.radio1.si/Radio1",
+        "favicon": "https://img.logo.dev/radio1.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio 1",
+        "url": "http://live.radio.si/Radio1",
+        "favicon": "https://img.logo.dev/radio1.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio 1",
+        "url": "http://live.radio.si/Radio1",
+        "favicon": "https://img.logo.dev/radio1.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio 1 - Maribor (107.9MHz)",
+        "url": "https://live.radio1.si/Radio1",
+        "favicon": "https://img.logo.dev/radio1.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio 2",
+        "url": "http://live.radio2.si/Radio2?1448457274706.mo3",
+        "favicon": "https://img.logo.dev/radio2.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio 2",
+        "url": "http://live.radio2.si/Radio2?1448457274706.mp3",
+        "favicon": "https://img.logo.dev/radio2.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio 94",
+        "url": "http://77.38.12.198:8000/radio94",
+        "favicon": "https://img.logo.dev/radio94.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Aktual",
+        "url": "http://195.95.158.131:9080/",
+        "favicon": "https://img.logo.dev/radioaktual.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Antena",
+        "url": "http://live.radioantena.si/Antena",
+        "favicon": "https://img.logo.dev/radioantena.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Antena (105.2MHz)",
+        "url": "https://live.radio.si/Antena",
+        "favicon": "https://img.logo.dev/radioantena.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio BOB",
+        "url": "http://live6.infonetmedia.si/Europa05",
+        "favicon": "https://img.logo.dev/radiobob.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Bob",
+        "url": "https://live.radio.si/BOB",
+        "favicon": "https://img.logo.dev/radiobob.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Capodistria",
+        "url": "http://mp3.rtvslo.si/capo",
+        "favicon": "https://img.logo.dev/rtvslo.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Capris 80",
+        "url": "http://stream02.exit.si:8000/80?",
+        "favicon": "https://img.logo.dev/radiocapris.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Capris 90 DANCE",
+        "url": "http://stream02.exit.si:8000/MEGAMIX?",
+        "favicon": "https://img.logo.dev/radiocapris.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Capris 90 POP",
+        "url": "http://stream02.exit.si:8000/90?",
+        "favicon": "https://img.logo.dev/radiocapris.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Capris Dalmacija",
+        "url": "http://stream02.exit.si:8000/DALMACIJA?",
+        "favicon": "https://img.logo.dev/radiocapris.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Capris EX - YU",
+        "url": "http://stream02.exit.si:8000/EXYU?",
+        "favicon": "https://img.logo.dev/radiocapris.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Capris Hits",
+        "url": "http://stream02.exit.si:8000/HITS?",
+        "favicon": "https://img.logo.dev/radiocapris.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Capris ITALIA",
+        "url": "http://stream02.exit.si:8000/ITA?",
+        "favicon": "https://img.logo.dev/radiocapris.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Capris LOVE",
+        "url": "http://stream02.exit.si:8000/LOVE?",
+        "favicon": "https://img.logo.dev/radiocapris.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Capris POLETJE",
+        "url": "http://stream02.exit.si:8000/POLETJE?",
+        "favicon": "https://img.logo.dev/radiocapris.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Capris Rock",
+        "url": "http://stream02.exit.si:8000/ROCK?",
+        "favicon": "https://img.logo.dev/radiocapris.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Capris SLO",
+        "url": "http://stream02.exit.si:8000/SLO?",
+        "favicon": "https://img.logo.dev/radiocapris.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Celje",
+        "url": "https://stream.rgl.si/Celje",
+        "favicon": "https://img.logo.dev/radiocelje.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Center 80s",
+        "url": "http://stream2.radioekspres.si:8064/stream",
+        "favicon": "https://img.logo.dev/radiocenter.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Center Gen X",
+        "url": "https://stream2.nextmedia.si/hls/gex/live.m3u8",
+        "favicon": "https://img.logo.dev/radiocenter.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio City",
+        "url": "https://stream1.radiocity.si/CityMp3128.mp3",
+        "favicon": "https://img.logo.dev/radiocity.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio City (Maribor) 100.6 FM",
+        "url": "http://82.149.22.34:8000/CityMp364mono.mp3",
+        "favicon": "https://img.logo.dev/radiocity.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio City MB",
+        "url": "http://82.149.22.34:8000/CityMp3128.mp3",
+        "favicon": "https://img.logo.dev/radiocity.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Ekspres SI",
+        "url": "http://145.14.14.93:8016/stream/1/",
+        "favicon": "https://img.logo.dev/radioekspres.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio ENTER",
+        "url": "https://stream.nextmedia.si/proxy/enter_1?mp=/enter",
+        "favicon": "https://img.logo.dev/enter.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Expres",
+        "url": "http://stream2.radioekspres.si:8016/stream?type=http&nocache=138",
+        "favicon": "https://img.logo.dev/radioekspres.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Gorenc",
+        "url": "http://stream.radiogorenc.si:8000/radiogorenc.mp3",
+        "favicon": "https://img.logo.dev/radiogorenc.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Gorenc",
+        "url": "http://stream.radiogorenc.si:8000/radiogorenc.mp3",
+        "favicon": "https://img.logo.dev/radiogorenc.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Hit",
+        "url": "http://stream03.exit.si:8000/radiohit",
+        "favicon": "https://img.logo.dev/radiohit.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio HIT Domzale",
+        "url": "http://stream03.exit.si:8000/radiohit",
+        "favicon": "https://img.logo.dev/radiohit.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Koper",
+        "url": "http://mp3.rtvslo.si/rakp",
+        "favicon": "https://img.logo.dev/rtvslo.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio KRka",
+        "url": "https://live.radio.si/Krka",
+        "favicon": "https://img.logo.dev/radiokrka.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Maribor",
+        "url": "https://mp3.rtvslo.si/rmb",
+        "favicon": "https://img.logo.dev/rtvslo.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio MARŠ",
+        "url": "http://frekvenca.eu:8000/radiomars.mp3",
+        "favicon": "https://img.logo.dev/radiomars.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Maxi",
+        "url": "https://live.radio.si/Maxi?t=1722577989752",
+        "favicon": "https://img.logo.dev/radiomaxi.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Maxi",
+        "url": "http://live2.infonetmedia.si:8000/Maxi",
+        "favicon": "https://img.logo.dev/radiomaxi.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Meteor",
+        "url": "http://eu1.fastcast4u.com:20052/stream",
+        "favicon": "https://img.logo.dev/radiometeor.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Mister Deejay",
+        "url": "http://stream.mister-deejay.com:9008/;",
+        "favicon": "https://img.logo.dev/mister-deejay.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RADIO NET FM",
+        "url": "http://reflector.radionet.si:8000/stream.ogg",
+        "favicon": "https://img.logo.dev/radionet.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Nula",
+        "url": "https://strm.radionula.com/classics",
+        "favicon": "https://img.logo.dev/radionula.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Nula",
+        "url": "https://strm.radionula.com/classics",
+        "favicon": "https://img.logo.dev/radionula.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio NULA - Classics",
+        "url": "https://strm.radionula.com/classics",
+        "favicon": "https://img.logo.dev/radionula.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "radio nula 2",
+        "url": "http://streaming.radionula.com:8800/channel2",
+        "favicon": "https://img.logo.dev/radionula.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Nula Beatz",
+        "url": "https://strm.radionula.com/lounge",
+        "favicon": "https://img.logo.dev/radionula.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio NULA Beatz",
+        "url": "https://strm.radionula.com/lounge",
+        "favicon": "https://img.logo.dev/radionula.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Nula Classic",
+        "url": "https://strm.radionula.com/classics",
+        "favicon": "https://img.logo.dev/radionula.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Nula Classics",
+        "url": "http://streaming.radionula.com:8800/classics",
+        "favicon": "https://img.logo.dev/radionula.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "radio nula lounge",
+        "url": "http://streaming.radionula.com:8800/lounge",
+        "favicon": "https://img.logo.dev/radionula.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Nula Organic",
+        "url": "https://strm.radionula.com/channel2",
+        "favicon": "https://img.logo.dev/radionula.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio NULA Organic",
+        "url": "https://strm.radionula.com/channel2",
+        "favicon": "https://img.logo.dev/radionula.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Ognjišče",
+        "url": "https://live.radio.si/ognjisce.mp3",
+        "favicon": "https://img.logo.dev/radio.ognjisce.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Ognjišče - mp3 stream",
+        "url": "http://live.ognjisce.si/ognjisce.mp3",
+        "favicon": "https://img.logo.dev/radio.ognjisce.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Prlek",
+        "url": "http://86.61.68.81:8000/;stream.nsv&type=mp3",
+        "favicon": "https://img.logo.dev/radioprlek.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Prvi",
+        "url": "http://mp3.rtvslo.si/ra1",
+        "favicon": "https://img.logo.dev/radioprvi.rtvslo.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Ptuj",
+        "url": "https://live.radio.si/Ptuj",
+        "favicon": "https://img.logo.dev/radioptuj.svet24.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio robin",
+        "url": "https://live.radio.si/Robin",
+        "favicon": "https://img.logo.dev/robin.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Rogla",
+        "url": "http://193.105.67.24:8010/;?type=http&nocache=3804",
+        "favicon": "https://img.logo.dev/radiorogla.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Roška",
+        "url": "http://stream.zeno.fm/q7300aptbwzuv",
+        "favicon": "https://img.logo.dev/radioroska.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio S",
+        "url": "http://live.radio.si/radios",
+        "favicon": "https://img.logo.dev/radios.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Salomon",
+        "url": "http://84.52.138.44/Salomon",
+        "favicon": "https://img.logo.dev/radiosalomon.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Si",
+        "url": "http://mp3.rtvslo.si/rsi",
+        "favicon": "https://img.logo.dev/radiosi.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Si - Radio Slovenija International",
+        "url": "http://mp3.rtvslo.si/rsi",
+        "favicon": "https://img.logo.dev/rtvslo.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Sora",
+        "url": "http://radio-sora.si:8000/radio-sora.mp3",
+        "favicon": "https://img.logo.dev/radio-sora.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Sraka",
+        "url": "http://193.105.67.24:8006/",
+        "favicon": "https://img.logo.dev/radiosraka.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Štajerski val",
+        "url": "https://stream.stajerskival.si:8443/live",
+        "favicon": "https://img.logo.dev/stajerskival.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Student",
+        "url": "http://kruljo.radiostudent.si:8000/hiq",
+        "favicon": "https://img.logo.dev/radiostudent.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Student",
+        "url": "https://kruljo.radiostudent.si:8001/hiq",
+        "favicon": "https://img.logo.dev/radiostudent.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Študent",
+        "url": "http://kruljo.radiostudent.si:8000/loq",
+        "favicon": "https://img.logo.dev/radiostudent.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Student",
+        "url": "http://kruljo.radiostudent.si:8000/ehiq",
+        "favicon": "https://img.logo.dev/kruljo.radiostudent.si:8000?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Študent",
+        "url": "http://kruljo.radiostudent.si:8000/hiq",
+        "favicon": "https://img.logo.dev/radiostudent.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Terminal",
+        "url": "https://air.radioterminal.si/live",
+        "favicon": "https://img.logo.dev/radioterminal.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rádio Timea",
+        "url": "http://evcast.mediacp.eu:1480/stream",
+        "favicon": "https://img.logo.dev/radiotimea.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Tomi",
+        "url": "http://93.103.130.12:8080/tomi.mp3",
+        "favicon": "https://img.logo.dev/radiotomi.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Triglav",
+        "url": "http://live.radiotriglav.si/Triglav",
+        "favicon": "https://img.logo.dev/radiotriglav.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Veseljak",
+        "url": "http://195.95.158.131:9060/",
+        "favicon": "https://img.logo.dev/veseljak.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Veseljak-Pumpa",
+        "url": "http://live.radio.si/VeseljakPumpa",
+        "favicon": "https://img.logo.dev/veseljak.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Zica",
+        "url": "http://live.1chi.si/zica",
+        "favicon": "https://img.logo.dev/radiozica.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio1",
+        "url": "https://live.radio1.si/Radio80",
+        "favicon": "https://img.logo.dev/live.radio1.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Retro Radio",
+        "url": "https://zvok.ragla.si/gr",
+        "favicon": "https://img.logo.dev/retro.sg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Retro Radio",
+        "url": "https://zvok.ragla.si/gr?1670057106819",
+        "favicon": "https://img.logo.dev/retrodab.plus?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rock Maribor",
+        "url": "http://live.rockmaribor.si/RockMB",
+        "favicon": "https://img.logo.dev/rockmaribor.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rock Maribor",
+        "url": "https://live.radio.si/RockMB?t=1732114443550",
+        "favicon": "https://img.logo.dev/rockmaribor.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rock Radio",
+        "url": "http://stream3.radiocenter.si:9032/;",
+        "favicon": "https://img.logo.dev/rockradio.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rock Radio",
+        "url": "https://stream.nextmedia.si/proxy/rockr1_1?mp=/rock;",
+        "favicon": "https://img.logo.dev/rockradio.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rock Radio Best Ballads SLO",
+        "url": "https://stream.nextmedia.si/proxy/rocks_1?mp=/stream",
+        "favicon": "https://img.logo.dev/rockradio.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rock Radio Classics",
+        "url": "https://stream.nextmedia.si/proxy/rocks_3?mp=/rock?uid=rrweb",
+        "favicon": "https://img.logo.dev/stream.nextmedia.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rock radio classics",
+        "url": "https://stream.nextmedia.si/proxy/rocks_3",
+        "favicon": "https://img.logo.dev/stream.nextmedia.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rock Radio Classics SLO",
+        "url": "https://stream.nextmedia.si/proxy/rocks_3?mp=/stream",
+        "favicon": "https://img.logo.dev/rockradio.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rock Radio Hard & Heavy SLO",
+        "url": "https://stream.nextmedia.si/proxy/rocks_2?mp=/stream",
+        "favicon": "https://img.logo.dev/rockradio.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "ROCK RADIO SI",
+        "url": "http://stream.rockradio.si:9034/;",
+        "favicon": "https://img.logo.dev/rockradio.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rock Radio SLO",
+        "url": "https://stream.nextmedia.si/proxy/rockr2_2?mp=/stream",
+        "favicon": "https://img.logo.dev/rockradio.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rock Radio Slovenia",
+        "url": "https://stream.nextmedia.si/proxy/rockr1_1?mp=/rock",
+        "favicon": "https://img.logo.dev/rockradio.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Toti Maxi",
+        "url": "https://live.radio.si/Maxi",
+        "favicon": "https://img.logo.dev/radiomaxi.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Toti Radio",
+        "url": "https://live.radio.si/Toti?t=1722581297315",
+        "favicon": "https://img.logo.dev/totiradio.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Toti Radio",
+        "url": "https://live.radio.si/Toti",
+        "favicon": "https://img.logo.dev/totiradio.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Univox",
+        "url": "https://solid33.streamupsolutions.com/proxy/vtmpasiq?mp=/stream",
+        "favicon": "https://img.logo.dev/univox.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "VAL 202",
+        "url": "http://mp3.rtvslo.si:8000/val202",
+        "favicon": "https://img.logo.dev/val202.rtvslo.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Val 202",
+        "url": "http://mp3.rtvslo.si/val202",
+        "favicon": "https://img.logo.dev/val202.rtvslo.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Val202",
+        "url": "http://mp3.rtvslo.si:8000/val202",
+        "favicon": "https://img.logo.dev/val202.rtvslo.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Zeleni val",
+        "url": "https://jurepeterka.radioca.st/stream",
+        "favicon": "https://img.logo.dev/radio.zelenival.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    }
+]

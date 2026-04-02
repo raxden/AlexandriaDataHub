@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Tick Tock Radio - 1992",
+        "url": "https://nl4.mystreaming.net/tt/1992/icecast.audio",
+        "favicon": "https://img.logo.dev/ticktock.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Tick Tock Radio - 1993",
+        "url": "https://streaming.ticktock.radio/tt/1993/icecast.audio",
+        "favicon": "https://img.logo.dev/ticktock.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Tick Tock Radio - 1994",
+        "url": "https://nl4.mystreaming.net/tt/1994/icecast.audio",
+        "favicon": "https://img.logo.dev/ticktock.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Tick Tock Radio - 2022",
+        "url": "https://streaming.ticktock.radio/tt/2022/icecast.audio",
+        "favicon": "https://img.logo.dev/ticktock.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Підсунути свиню",
+        "url": "https://stream.zenolive.com/u5enyd4c28quv",
+        "favicon": "https://img.logo.dev/homeis.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    }
+]

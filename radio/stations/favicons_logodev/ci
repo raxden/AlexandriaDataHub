@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Africa Radio Abidjan",
+        "url": "https://africaradio.ice.infomaniak.ch/abidjan128.mp3",
+        "favicon": "https://img.logo.dev/africaradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Afrobeat international",
+        "url": "https://listen.radioking.com/radio/397789/stream/449770",
+        "favicon": "https://img.logo.dev/fr.welove.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Life radio Côte d’Ivoire",
+        "url": "https://cast4.asurahosting.com/proxy/life/stream",
+        "favicon": "https://img.logo.dev/liferadio.ci?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Jam",
+        "url": "https://listen.radioking.com/radio/61201/stream/98566",
+        "favicon": "https://img.logo.dev/radiojam.biz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Maria Ivory Coast",
+        "url": "https://dreamsiteradiocp6.com/proxy/rmcosta?mp=/stream",
+        "favicon": "https://img.logo.dev/radiomaria.ci?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Skyrock Abidjan",
+        "url": "https://icecast.skyrock.net/s/abidjan_aac_64k",
+        "favicon": "https://img.logo.dev/skyrock.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Trace FM Côte d’Ivoire",
+        "url": "http://stream.trace.tv/trace_fm_ci-midfi.aac",
+        "favicon": "https://img.logo.dev/trace.ci?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    }
+]

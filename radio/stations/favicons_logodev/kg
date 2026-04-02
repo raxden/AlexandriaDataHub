@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "ColdStar.Online Radio (High quality)",
+        "url": "https://ice.coldstar.online/high.mp3",
+        "favicon": "https://img.logo.dev/coldstar.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "ColdStar.Online Radio (Low quality)",
+        "url": "https://ice.coldstar.online/low.mp3",
+        "favicon": "https://img.logo.dev/coldstar.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "The Holy Quran  by Sheikh Mahmoud Al-Husari",
+        "url": "https://qurango.net/radio/mahmoud_khalil_alhussary_warsh",
+        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Биринчи Radio",
+        "url": "https://liveradio.utrk.kg/1radio",
+        "favicon": "https://img.logo.dev/ktrk.kg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Кыргызстан Обондору (Kyrgyzstan Obondoru)",
+        "url": "https://cdn.radioplayer.kg:8443/obondoru64",
+        "favicon": "https://img.logo.dev/obondoru.kg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Радио Тумар FM (Radio Tumar FM)",
+        "url": "https://radio.tumar.fm:8005/stream",
+        "favicon": "https://img.logo.dev/tumar.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Сүйүнчү FM (Suiunchu FM)",
+        "url": "https://cdn.radioplayer.kg:8443/suiunchu64",
+        "favicon": "https://img.logo.dev/suiunchu.kg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "name": "EXA FM: Música pop em inglês e espanhol",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
+        "favicon": "https://img.logo.dev/exafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Absolute country",
+        "url": "http://strm112.1.fm/acountry_mobile_mp3",
+        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Absolute country",
+        "url": "http://strm112.1.fm/acountry_mobile_mp3",
+        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Ebnézer Rádio",
+        "url": "http://08.stmip.net:10028/;;",
+        "favicon": "https://img.logo.dev/shaloministerio.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Powermix FM",
+        "url": "https://cast.iplayradio.net/listen/powermixfm/stream",
+        "favicon": "https://img.logo.dev/powermixfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Bairro de Angola",
+        "url": "https://stm4.xradios.com.br:6794/stream",
+        "favicon": "https://img.logo.dev/player.xradios.com.br?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rádio Fé Angola",
+        "url": "http://stream-155.zeno.fm/gsndh1xvczetv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnc25kaDF4dmN6ZXR2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoicm81MjdFal9TUi1xN1dwaXNVMFFIQSIsImlhdCI6MTc2ODQzNjI5OCwiZXhwIjoxNzY4NDM2MzU4fQ.8cwpv0x7PvZ-BypcPNxZU0KjySTsaVxXbVDcDhPsNow",
+        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Jihenda",
+        "url": "https://s02.brascast.com:7830/live",
+        "favicon": "https://img.logo.dev/radiojihenda.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Kuia Bue",
+        "url": "https://a11.asurahosting.com:7400/radio.aac",
+        "favicon": "https://img.logo.dev/radiokuiabue.us?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rádio MFM Angola",
+        "url": "https://centova87.instainternet.com/proxy/mfm?mp=/stream",
+        "favicon": "https://img.logo.dev/radiomfmangola.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    }
+]

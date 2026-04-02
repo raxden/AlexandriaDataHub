@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Ishara",
+        "url": "https://a8.asurahosting.com:7030/radio.mp3",
+        "favicon": "https://img.logo.dev/isharafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "MPB Radio Suriname",
+        "url": "https://radiozender.mpbnetwerken.nl/radiosuriname",
+        "favicon": "https://img.logo.dev/radiozender.mpbnetwerken.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "MPB Radio Suriname",
+        "url": "https://radiozender.mpbnetwerken.nl/radiosuriname.mp3",
+        "favicon": "https://img.logo.dev/radiozender.mpbnetwerken.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "NIO 107.5FM",
+        "url": "https://loa.beheerstream.nl:8060/stream",
+        "favicon": "https://img.logo.dev/nio.sr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio 10 Magic FM",
+        "url": "https://s5.radio.co/s85a633f73/listen",
+        "favicon": "https://img.logo.dev/radio10.sr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio 10 Magic FM",
+        "url": "https://s5.radio.co/s85a633f73/listen",
+        "favicon": "https://img.logo.dev/radio10.sr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio 10 Magic FM",
+        "url": "https://s5.radio.co/s85a633f73/listen",
+        "favicon": "https://img.logo.dev/radio10.sr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio 10 Magic FM",
+        "url": "https://s5.radio.co/s85a633f73/listen",
+        "favicon": "https://img.logo.dev/radio10.sr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Apintie",
+        "url": "http://surilive.com:8000/str",
+        "favicon": "https://img.logo.dev/apintie.sr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio ishara",
+        "url": "https://a8.asurahosting.com:7030/radio.mp3",
+        "favicon": "https://img.logo.dev/a8.asurahosting.com:7030?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Sangeetmala",
+        "url": "https://rs.suricloud.com/radio/8030/radio.mp3",
+        "favicon": "https://img.logo.dev/rs.suricloud.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Shruti",
+        "url": "https://rs.suricloud.com/radio/8000/radio.mp3",
+        "favicon": "https://img.logo.dev/rs.suricloud.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Surinet radio",
+        "url": "http://loa.beheerstream.nl:8066/stream",
+        "favicon": "https://img.logo.dev/surinetradio.sr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    }
+]

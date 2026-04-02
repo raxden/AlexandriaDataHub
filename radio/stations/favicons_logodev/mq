@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Martinique 1ère",
+        "url": "http://martinique.ice.infomaniak.ch/martinique-128.mp3",
+        "favicon": "https://img.logo.dev/la1ere.francetvinfo.fr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Fusion",
+        "url": "http://france16.coollabel-productions.com:8276/;listen.m3u",
+        "favicon": "https://img.logo.dev/radiofusion.fr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Mojito",
+        "url": "https://fmcpmediatest.ice.infomaniak.ch/fmcp-128.mp3",
+        "favicon": "https://img.logo.dev/ckradio.fr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Zoukla",
+        "url": "https://ecmanager4.pro-fhi.net:2605/stream",
+        "favicon": "https://img.logo.dev/telezoukla.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Super Radio",
+        "url": "http://str81.streamakaci.com:9160/",
+        "favicon": "https://img.logo.dev/cayali.fr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    }
+]

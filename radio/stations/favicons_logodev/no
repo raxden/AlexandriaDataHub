@@ -1,0 +1,567 @@
+[
+    {
+        "name": "🎥 ues 🎬",
+        "url": "https://listen.radionomy.com/unleashingepicsoundtracks",
+        "favicon": "https://img.logo.dev/radioguide.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "1-NRK Jazz",
+        "url": "http://cdn0-47115-liveicecast0.dna.contentdelivery.net/jazz_mp3_h",
+        "favicon": "https://img.logo.dev/radio.nrk.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "1FM Molde",
+        "url": "https://s2.radio.co/s914ffa700/listen?rp_source=1&=&&___cb=962597539110953",
+        "favicon": "https://img.logo.dev/1fmmolde.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "5000 Bergen",
+        "url": "https://bergen5000.radioca.st/stream",
+        "favicon": "https://img.logo.dev/5000bergen.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "5000 Bergen",
+        "url": "https://bergen5000.radioca.st/stream",
+        "favicon": "https://img.logo.dev/5000bergen.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Guovdageainnu Lagasradio",
+        "url": "https://streaming.radio.co/s5b773f8d3/listen",
+        "favicon": "https://img.logo.dev/glr.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Hamar Radioen",
+        "url": "https://lyd.radioene.no/hamar.mp3",
+        "favicon": "https://img.logo.dev/radioene.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "historyradio.org",
+        "url": "http://stream.radiojar.com/6bmecgg3wd5tv",
+        "favicon": "https://img.logo.dev/historyradio.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Klem FM",
+        "url": "https://p7.p4groupaudio.com/P07_MM",
+        "favicon": "https://img.logo.dev/p7klem.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Metal Express Radio",
+        "url": "http://s39.myradiostream.com:11590/;",
+        "favicon": "https://img.logo.dev/metalexpressradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Metal Express Radio",
+        "url": "http://s39.myradiostream.com:11590/;",
+        "favicon": "https://img.logo.dev/metalexpressradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Metal Express Radio",
+        "url": "http://s39.myradiostream.com:11590/listen.m4a",
+        "favicon": "https://img.logo.dev/metalexpressradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Metro Buskerud",
+        "url": "https://stream.radiometro.no/buskerud128",
+        "favicon": "https://img.logo.dev/radiometro.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Nærkanalen",
+        "url": "https://stream.radiomeloy.no:8003/radiomeloy",
+        "favicon": "https://img.logo.dev/narkanalen.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Nea Radio",
+        "url": "http://nettradio.nearadio.no:8000/stream",
+        "favicon": "https://img.logo.dev/nearadio.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "NF Radio",
+        "url": "https://player.nfradio.fr/listen/nf_radio/radio.mp3",
+        "favicon": "https://img.logo.dev/nfradio.fr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Norsk Country Radio",
+        "url": "http://s6.voscast.com:10258/",
+        "favicon": "https://img.logo.dev/norskcountry.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "North & Beyond",
+        "url": "http://stream.laut.fm/north-beyond",
+        "favicon": "https://img.logo.dev/north-beyond.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "NRJ Norge",
+        "url": "https://live-bauerno.sharp-stream.com/kiss_no_mp3",
+        "favicon": "https://img.logo.dev/radioplay.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "NRK Klassisk Radio",
+        "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/klassisk_mp3_h",
+        "favicon": "https://img.logo.dev/radio.nrk.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "NRK MP3",
+        "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/mp3_mp3_h",
+        "favicon": "https://img.logo.dev/lyd.nrk.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "NRK Nyheter",
+        "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/nyheter_aac_h",
+        "favicon": "https://img.logo.dev/radio.nrk.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "NRK Nyhter (MP3 - HI)",
+        "url": "https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/nyheter",
+        "favicon": "https://img.logo.dev/radio.nrk.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "NRK P1 Buskerud (AAC High)",
+        "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk13_aac_h",
+        "favicon": "https://img.logo.dev/lyd.nrk.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "NRK P1 Finnmark",
+        "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk2_mp3_h",
+        "favicon": "https://img.logo.dev/nrk.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Nrk p1 Hordaland",
+        "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk8_mp3_h",
+        "favicon": "https://img.logo.dev/cdn0-47115-liveicecast0.dna.contentdelivery.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "NRK P1 Møre og Romsdal",
+        "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk6_mp3_l",
+        "favicon": "https://img.logo.dev/nrk.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "NRK P1 Nordland",
+        "url": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk4",
+        "favicon": "https://img.logo.dev/nrk.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "NRK P1 Østfold",
+        "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk15_mp3_h",
+        "favicon": "https://img.logo.dev/radio.nrk.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "NRK P1 Østfold",
+        "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk15_mp3_h",
+        "favicon": "https://img.logo.dev/radio.nrk.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "NRK P1 Rogaland",
+        "url": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk9",
+        "favicon": "https://img.logo.dev/nrk.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "NRK P1 Sogn og Fjordane (Høy kvalitet AAC)",
+        "url": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk7",
+        "favicon": "https://img.logo.dev/radio.nrk.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "NRK P1 Sogn og Fjordane (Høy kvalitet MP3)",
+        "url": "https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/p1_dk7",
+        "favicon": "https://img.logo.dev/radio.nrk.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Nrk P1 Stor-Oslo",
+        "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_mp3_h",
+        "favicon": "https://img.logo.dev/lyd.nrk.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "NRK P1 Troms (Høy kvalitet AAC)",
+        "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk3_aac_h",
+        "favicon": "https://img.logo.dev/lyd.nrk.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "NRK P1+",
+        "url": "https://nrk-live-radio-world.akamaized.net/p1pluss/muxed.m3u8?adap=audio&aco=aac",
+        "favicon": "https://img.logo.dev/radio.nrk.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "NRK P1+ (mp3)",
+        "url": "https://lyd.nrk.no/nrk_radio_p1pluss_mp3_h?_hdr=0",
+        "favicon": "https://img.logo.dev/radio.nrk.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "NRK P2 aac_h",
+        "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p2_aac_h",
+        "favicon": "https://img.logo.dev/radio.nrk.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "NRK P3",
+        "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p3_mp3_h",
+        "favicon": "https://img.logo.dev/nrk.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "NRK P3 Musikk",
+        "url": "https://lyd.nrk.no/icecast/mp3/high/bkaen3z6bl/p3musikk?1768728185",
+        "favicon": "https://img.logo.dev/radio.nrk.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "NRK Sápmi",
+        "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/sapmi_mp3_h",
+        "favicon": "https://img.logo.dev/radio.nrk.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "NRK Sport",
+        "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/sport_aac_h",
+        "favicon": "https://img.logo.dev/radio.nrk.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "NRK Sport",
+        "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/sport_aac_h",
+        "favicon": "https://img.logo.dev/radio.nrk.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "NRK Trøndelag",
+        "url": "https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/p1_dk5",
+        "favicon": "https://img.logo.dev/lyd.nrk.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "P10 Country (AAC HQ)",
+        "url": "https://p10.p4groupaudio.com/P10_AH",
+        "favicon": "https://img.logo.dev/lydenavnorge.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "P11 Dance (AAC HQ)",
+        "url": "https://p11.p4groupaudio.com/P11_AH",
+        "favicon": "https://img.logo.dev/p11dance.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "P11 Dance (MP3 128k)",
+        "url": "https://p11.p4groupaudio.com/P11_MM",
+        "favicon": "https://img.logo.dev/p11dance.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "P11 Dance (MP3 192k)",
+        "url": "https://p11.p4groupaudio.com/P11_MH",
+        "favicon": "https://img.logo.dev/p11dance.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "P12 Hitmix (AAC HQ)",
+        "url": "https://nrj.p4groupaudio.com/NRJ_AH",
+        "favicon": "https://img.logo.dev/p12hitmix.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "P12 Hitmix (MP3 128k)",
+        "url": "https://nrj.p4groupaudio.com/NRJ_MM",
+        "favicon": "https://img.logo.dev/p12hitmix.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "P24-7 JuleRadioen",
+        "url": "https://live-bauerno.sharp-stream.com/station17_no_mp3",
+        "favicon": "https://img.logo.dev/radio-norge.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "P24-7 Kos",
+        "url": "https://live-bauerno.sharp-stream.com/p247kos_no_hq?direct=true",
+        "favicon": "https://img.logo.dev/radioplay.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "P24-7 Mix",
+        "url": "https://live-bauerno.sharp-stream.com/p247mix_no_mp3",
+        "favicon": "https://img.logo.dev/p247mix.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "P4 – Lyden av Norge",
+        "url": "https://p4.p4groupaudio.com/P04_MH",
+        "favicon": "https://img.logo.dev/lydenavnorge.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "P4 – Lyden av Norge",
+        "url": "https://p4.p4groupaudio.com/P04_MH",
+        "favicon": "https://img.logo.dev/p4.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "P4 Norge (AAC HQ)",
+        "url": "https://p4.p4groupaudio.com/P04_AH",
+        "favicon": "https://img.logo.dev/p4.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "P4 Norge (MP3 128k)",
+        "url": "https://p4.p4groupaudio.com/P04_MM",
+        "favicon": "https://img.logo.dev/p4.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "P5 Hits (MP3 128k)",
+        "url": "https://p5.p4groupaudio.com/P05_MM",
+        "favicon": "https://img.logo.dev/p5.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "P5 Nonstop Hits (AAC HQ)",
+        "url": "https://p5n.p4groupaudio.com/P05AAH",
+        "favicon": "https://img.logo.dev/lydenavnorge.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "P6 Rock (MP3 128k)",
+        "url": "https://p6.p4groupaudio.com/P06_MM",
+        "favicon": "https://img.logo.dev/p6.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "P7",
+        "url": "https://radio.p7.no/listen/p7_kristen_riksradio/kristen_riksradio",
+        "favicon": "https://img.logo.dev/p7.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "P7 Klem (AAC HQ)",
+        "url": "https://p7.p4groupaudio.com/P07_AH",
+        "favicon": "https://img.logo.dev/p7klem.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "P7 Kristen Pop",
+        "url": "https://radio.p7.no/listen/p7_kristen_pop/kristen_pop",
+        "favicon": "https://img.logo.dev/p7.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "P8 Pop (MP3 128k)",
+        "url": "https://p8.p4groupaudio.com/P08_MM",
+        "favicon": "https://img.logo.dev/p8pop.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "P9 Retro (MP3 128k)",
+        "url": "https://p9.p4groupaudio.com/P09_MH",
+        "favicon": "https://img.logo.dev/p9retro.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio 3 Bodø",
+        "url": "https://stream.radio3.no/Radio3Bodo48?rp_source=1&=&&___cb=322377588283394",
+        "favicon": "https://img.logo.dev/radio3bodo.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio 3,16 - hele Norges kristne radiokanal",
+        "url": "https://streaming.radio.co:80/se326fb378/listen",
+        "favicon": "https://img.logo.dev/radio316.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Ålesund",
+        "url": "https://audio.radioaalesund.no/aalesund_mq",
+        "favicon": "https://img.logo.dev/radioaalesund.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Bardufoss",
+        "url": "https://stream.bardufoss.no/radiobardufoss192",
+        "favicon": "https://img.logo.dev/bardufoss.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Haugaland 96",
+        "url": "https://stream.theradiohub.com/?server=radioip.no&port=443&type=mp3&mount=rh.mp3",
+        "favicon": "https://img.logo.dev/radioh.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Kos",
+        "url": "https://lyd.radiokos.no/kos_lq",
+        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Kos",
+        "url": "https://lyd.radiokos.no/kos_lq",
+        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Latin-Amerika",
+        "url": "https://stream.radiolatinamerika.no/latam_hq",
+        "favicon": "https://img.logo.dev/radiolatinamerika.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Lyngdal",
+        "url": "http://live.radiolyngdal.com/rly_mq",
+        "favicon": "https://img.logo.dev/radiolyngdal.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Med Oslo",
+        "url": "http://108.59.11.81:10107/stream",
+        "favicon": "https://img.logo.dev/108.59.11.81:10107?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Metro Oslo",
+        "url": "http://stream.oneplay.no/oslo128",
+        "favicon": "https://img.logo.dev/radiometro.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Metro Sørlandet",
+        "url": "https://stream.oneplay.no/sorlandet128",
+        "favicon": "https://img.logo.dev/radiometro.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Nordkapp",
+        "url": "http://audio.visto.no/radionordkapp.ogg",
+        "favicon": "https://img.logo.dev/radionordkapp.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Norge",
+        "url": "https://live-bauerno.sharp-stream.com/radionorge_no_mp3",
+        "favicon": "https://img.logo.dev/radionorge.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Norge",
+        "url": "https://live-bauerno.sharp-stream.com/radionorge_no_mp3",
+        "favicon": "https://img.logo.dev/radioplay.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Northern Star",
+        "url": "http://5866.cloudrad.io:8018/northernstar.mp3",
+        "favicon": "https://img.logo.dev/northernstar.cc?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Nova",
+        "url": "http://stream.radionova.no/mp3",
+        "favicon": "https://img.logo.dev/radionova.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Randsfjord",
+        "url": "http://stream.radiorandsfjord.no/randsfjord128.mp3",
+        "favicon": "https://img.logo.dev/radiorandsfjord.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Rock (NO)",
+        "url": "https://live-bauerno.sharp-stream.com/radiorock_no_mp3",
+        "favicon": "https://img.logo.dev/radioplay.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Rock Norway AAC",
+        "url": "https://live-bauerno.sharp-stream.com/radiorock_no_aac",
+        "favicon": "https://img.logo.dev/radioplay.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Rox",
+        "url": "http://stream.radiometro.no/rox128",
+        "favicon": "https://img.logo.dev/radiorox.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Rox",
+        "url": "https://live-nors.sharp-stream.com/nors13.mp3",
+        "favicon": "https://img.logo.dev/dinlyd.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Sotra",
+        "url": "https://streaming.radiosotra.no:8443/radiosotra",
+        "favicon": "https://img.logo.dev/radiosotra.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Tønsberg",
+        "url": "https://audio.jaerradiogruppen.no/tonsberg_hq",
+        "favicon": "https://img.logo.dev/radiotonsberg.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Tromsø Hits",
+        "url": "https://stream.rthits.no/rthits192",
+        "favicon": "https://img.logo.dev/radiotromso.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Tromsø Hits",
+        "url": "https://stream.rthits.no/rthits192",
+        "favicon": "https://img.logo.dev/radiotromso.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RADIO Trøndelag",
+        "url": "https://nettradio.radiotrondelag.no:8443/radio_trondelag",
+        "favicon": "https://img.logo.dev/radiotrondelag.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Vinyl Oslo",
+        "url": "http://live-bauerno.sharp-stream.com/vinyl_no_mp3",
+        "favicon": "https://img.logo.dev/radioplay.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio-Topp 40",
+        "url": "http://live-bauerno.sharp-stream.com/top40_no_aac",
+        "favicon": "https://img.logo.dev/radioplay.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio102",
+        "url": "https://stream.radio102.no/radio102_hq",
+        "favicon": "https://img.logo.dev/radio102.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio102",
+        "url": "https://stream.radio102.no/radio102_hq",
+        "favicon": "https://img.logo.dev/radio102.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "radiolatinamerika",
+        "url": "https://stream.radiolatinamerika.no/latam_hq",
+        "favicon": "https://img.logo.dev/radiolatinamerika.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "radiOrakel",
+        "url": "https://stream.radiorakel.no/radiorakel_hq",
+        "favicon": "https://img.logo.dev/radiorakel.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "radiOrakel FM 99.3",
+        "url": "https://stream.radiorakel.no/fm993.mp3",
+        "favicon": "https://img.logo.dev/radiorakel.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radiø Bø",
+        "url": "https://nettradio.radiobo.com/radiobo-high",
+        "favicon": "https://img.logo.dev/radiobo.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rock Radio Norway",
+        "url": "https://live-bauerno.sharp-stream.com/radiorock_no_mp3",
+        "favicon": "https://img.logo.dev/radioplay.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rock Radio Norway",
+        "url": "https://live-bauerno.sharp-stream.com/radiorock_no_mp3",
+        "favicon": "https://img.logo.dev/radioplay.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RRA",
+        "url": "http://remote.remoy.org:59913/rasta2",
+        "favicon": "https://img.logo.dev/rastaarena.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Sørlandsradioen",
+        "url": "https://nettradio.sorlandsradioen.no/sorlandsradioen_hq",
+        "favicon": "https://img.logo.dev/sorlandsradioen.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "The Beat",
+        "url": "https://live-nors.sharp-stream.com/nors17.mp3",
+        "favicon": "https://img.logo.dev/dinlyd.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Topp 40",
+        "url": "http://live-bauerno.sharp-stream.com/top40_no_mp3",
+        "favicon": "https://img.logo.dev/radioplay.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Toten radio",
+        "url": "http://streamer.nextnet.no/radiototen-mp3",
+        "favicon": "https://img.logo.dev/radiototen.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Trysilradioen",
+        "url": "https://lyd.radioene.no/trysil.mp3",
+        "favicon": "https://img.logo.dev/radioene.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Tube Tamil FM Radio டியூப் தமிழ் எஃப்.எம் பண்பலை ரேடியோtube",
+        "url": "http://s2.voscast.com:12084/;stream1619441439791/1",
+        "favicon": "https://img.logo.dev/tubetamil.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Tune Tribe Radio",
+        "url": "https://tunetriberadio.com:8556/listen/tune_tribe_radio/radio.mp3",
+        "favicon": "https://img.logo.dev/tunetriberadio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Tune Tribe Radio",
+        "url": "https://tunetriberadio.com:8556/listen/tune_tribe_radio/radio.mp3",
+        "favicon": "https://img.logo.dev/tunetriberadio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Tune Tribe Radio",
+        "url": "https://tunetriberadio.com:8556/hls/tune_tribe_radio/live.m3u8",
+        "favicon": "https://img.logo.dev/tunetriberadio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    }
+]

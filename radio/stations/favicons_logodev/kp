@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Korean Central Broadcasting Station",
+        "url": "https://radio.intchoson.com/kcbs/index.m3u8",
+        "favicon": "https://img.logo.dev/gnu.rep.kp?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Pyongyang",
+        "url": "https://listen7.myradio24.com/69366",
+        "favicon": "https://img.logo.dev/listen7.myradio24.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Pyongyang Radio FM",
+        "url": "https://listen7.myradio24.com/69366",
+        "favicon": "https://img.logo.dev/kfaspain.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Voice of Chongro",
+        "url": "https://stream.zeno.fm/oldwnjuma3duv",
+        "favicon": "https://img.logo.dev/sf1buynlarge.wixsite.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Voice of Korea",
+        "url": "https://listen7.myradio24.com/69366",
+        "favicon": "https://img.logo.dev/vok.rep.kp?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Voice of Korea",
+        "url": "https://radio.intchoson.com/vok/index.m3u8",
+        "favicon": "https://img.logo.dev/vok.rep.kp?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Voice of Korea (Russian)",
+        "url": "https://listen4.myradio24.com/60315",
+        "favicon": "https://img.logo.dev/vok.rep.kp?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Голос Корей",
+        "url": "https://listen4.myradio24.com/60315",
+        "favicon": "https://img.logo.dev/listen4.myradio24.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "조선의 소리",
+        "url": "https://radio.intchoson.com/vok/index.m3u8",
+        "favicon": "https://img.logo.dev/vok.rep.kp?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "조선중앙방송",
+        "url": "https://radio.intchoson.com/kcbs/index.m3u8",
+        "favicon": "https://img.logo.dev/kcna.kp?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "평양FM105.2",
+        "url": "http://listen7.myradio24.com/69366",
+        "favicon": "https://img.logo.dev/behindthecurtain-northkorea.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    }
+]

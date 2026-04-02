@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "MBC Best FM",
+        "url": "https://radio.mbconline.xyz/hls/bestfm.m3u8",
+        "favicon": "https://img.logo.dev/mbcradio.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "MBC Kool FM",
+        "url": "https://radio.mbconline.xyz/hls/koolfm.m3u8",
+        "favicon": "https://img.logo.dev/mbcradio.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "MBC Radio Maurice",
+        "url": "https://radio.mbconline.xyz/hls/radiomaurice.m3u8",
+        "favicon": "https://img.logo.dev/mbcradio.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "MBC Radio Mauritius",
+        "url": "https://radio.mbconline.xyz/hls/radiomauritus.m3u8",
+        "favicon": "https://img.logo.dev/mbcradio.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "MBC Taal FM",
+        "url": "https://radio.mbconline.xyz/hls/tallfm.m3u8",
+        "favicon": "https://img.logo.dev/mbcradio.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "OUi Radio",
+        "url": "https://mu1stream.mushost.com:8443/",
+        "favicon": "https://img.logo.dev/ouiradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "OUi Radio Rodrigues",
+        "url": "https://mu1stream.mushost.com:8554/",
+        "favicon": "https://img.logo.dev/rod.ouiradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "OUi Radio Rodrigues",
+        "url": "https://mu1stream.mushost.com:8554/",
+        "favicon": "https://img.logo.dev/rod.ouiradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio One",
+        "url": "https://centova57.instainternet.com/proxy/vivavoceltd?mp=/stream",
+        "favicon": "https://img.logo.dev/radio1.mu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Plus - Indiz",
+        "url": "https://streamer.radio.co/sed5c5a375/listen",
+        "favicon": "https://img.logo.dev/live.radioplus.mu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Plus Mauritius",
+        "url": "https://stream.radioplus.mu:8000/radio.mp3",
+        "favicon": "https://img.logo.dev/live.radioplus.mu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radioplus Fever",
+        "url": "https://streamer.radio.co/s3fe39a4a4/listen",
+        "favicon": "https://img.logo.dev/live.radioplus.mu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "SENSUELLE RADIO",
+        "url": "https://forwardmystream.com/sensuelleradio",
+        "favicon": "https://img.logo.dev/sensuelleradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Tamizen",
+        "url": "https://c34.radioboss.fm:18023/stream",
+        "favicon": "https://img.logo.dev/c34.radioboss.fm:18023?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Top FM",
+        "url": "https://s1.radioforge.com:4433/topfmlive/stream?hash=1663883843609.mp3",
+        "favicon": "https://img.logo.dev/topfm.mu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    }
+]

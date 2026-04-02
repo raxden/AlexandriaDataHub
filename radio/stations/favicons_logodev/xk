@@ -1,0 +1,87 @@
+[
+    {
+        "name": "92.1 Capital FM",
+        "url": "http://cfm.albaservers.com:8010/",
+        "favicon": "https://img.logo.dev/capital921.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Club FM Kosovë",
+        "url": "https://cp1.sednastream.com/proxy/clubfmkosova?mp=/stream",
+        "favicon": "https://img.logo.dev/clubfmkosova.al?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Glam Radio",
+        "url": "https://stream.glamradio.fm:8443/glamradio",
+        "favicon": "https://img.logo.dev/glamradio.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "GlamRADIO",
+        "url": "https://stream.glamradio.fm:8443/glamradio",
+        "favicon": "https://img.logo.dev/glamradio.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "KLAN Kosova FM",
+        "url": "http://s4.radio.co/sd1d1904dc/listen",
+        "favicon": "https://img.logo.dev/s4.radio.co?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Kolektiv Radio",
+        "url": "https://studio28.radiolize.com/radio/8100/radio.mp3",
+        "favicon": "https://img.logo.dev/kolektivradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Dukagjini",
+        "url": "http://s6.voscast.com:8824/;stream.mp3",
+        "favicon": "https://img.logo.dev/dukagjini.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio K4 Shqip",
+        "url": "http://fm.radiokfor.com:8080/;",
+        "favicon": "https://img.logo.dev/radiokfor.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Kosova 1",
+        "url": "http://82.114.72.2:8088/",
+        "favicon": "https://img.logo.dev/rtklive.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Kosova 2",
+        "url": "http://82.114.72.2:8098/",
+        "favicon": "https://img.logo.dev/rtklive.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Kosova E Lire",
+        "url": "http://quasar.shoutca.st:8018/",
+        "favicon": "https://img.logo.dev/radiokosovaelire.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RADIO MARIA KOSOVO",
+        "url": "http://dreamsiteradiocp2.com:8124/stream",
+        "favicon": "https://img.logo.dev/radiomariakosove.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Plus",
+        "url": "https://cast2.my-control-panel.com/proxy/radiopl1/stream",
+        "favicon": "https://img.logo.dev/radioplus.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Zëri i Shtimes",
+        "url": "http://radio.1dhe1.com:8090/radio.mp3",
+        "favicon": "https://img.logo.dev/radiozeri.info?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RTK Radio Kosova 1",
+        "url": "http://82.114.72.2:8088/;.mp3",
+        "favicon": "https://img.logo.dev/rtklive.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RTK Radio Kosova 2",
+        "url": "http://82.114.72.2:8098/;stream.mp3",
+        "favicon": "https://img.logo.dev/rtklive.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Urban FM 103.5",
+        "url": "https://radio.itprishtina.com/urbanfm.ogg",
+        "favicon": "https://img.logo.dev/radiourban.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    }
+]

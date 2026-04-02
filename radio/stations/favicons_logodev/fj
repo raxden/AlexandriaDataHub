@@ -1,0 +1,32 @@
+[
+    {
+        "name": "2dayFM 104.0 Suva",
+        "url": "http://peridot.streamguys.com:7150/2Day",
+        "favicon": "https://img.logo.dev/2dayfm.fbc.com.fj?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Bula FM",
+        "url": "http://peridot.streamguys.com:7150/Bula",
+        "favicon": "https://img.logo.dev/bulafm.fbc.com.fj?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Fiji Gold FM 100.4 Suva",
+        "url": "http://peridot.streamguys.com:7150/Gold",
+        "favicon": "https://img.logo.dev/goldfm.fbc.com.fj?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Fiji One",
+        "url": "http://peridot.streamguys.com:7150/RFOne",
+        "favicon": "https://img.logo.dev/rf1.fbc.com.fj?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Fiji Two",
+        "url": "http://peridot.streamguys.com:7150/RFTwo",
+        "favicon": "https://img.logo.dev/rf2.fbc.com.fj?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    }
+]

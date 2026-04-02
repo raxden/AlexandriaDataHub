@@ -1,0 +1,237 @@
+[
+    {
+        "name": "Aquarelle FM",
+        "url": "http://93.115.137.75:8000/aquarellefm.mp3",
+        "favicon": "https://img.logo.dev/aquarellefm.md?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Crucial Velocity Radio",
+        "url": "http://ais-sa2.cdnstream1.com/1369_128",
+        "favicon": "https://img.logo.dev/live.mystreamplayer.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Dance Fm Moldova",
+        "url": "http://37.233.41.76:8000/dancefm",
+        "favicon": "https://img.logo.dev/dancefmmoldova.md?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Drive FM",
+        "url": "http://109.185.236.241:8000/DriveFM",
+        "favicon": "https://img.logo.dev/drivefm.md?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Eco FM",
+        "url": "http://188.138.204.98:8080/ecoFM",
+        "favicon": "https://img.logo.dev/ecofm.md?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Focul din Vatră",
+        "url": "https://aiciascult.eu/radio",
+        "favicon": "https://img.logo.dev/aiciascult.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Glowwave-FM",
+        "url": "https://commandcenter.tail5a820f.ts.net/stream",
+        "favicon": "https://img.logo.dev/glowlinks.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Glowwave-FM",
+        "url": "https://commandcenter.tail5a820f.ts.net/stream",
+        "favicon": "https://img.logo.dev/glowlinks.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Haliz Gagauz Radiosu - GRT",
+        "url": "http://s02.radio-tochka.com:8020/radio?type=.mp3",
+        "favicon": "https://img.logo.dev/s02.radio-tochka.com:8020?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Haliz Gagauz Radiosu - GRT",
+        "url": "http://s02.radio-tochka.com:8020/radio?type=.mp3",
+        "favicon": "https://img.logo.dev/gagauzradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Hit FM 2000s HITS",
+        "url": "https://radio3.dixi.md/listen/hit_fm_2000s_hits/hitfm2000hit128.aac",
+        "favicon": "https://img.logo.dev/hitfm.md?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Hit FM Best Hits",
+        "url": "https://radio3.dixi.md/listen/hit_fm_best_hits/hitfm_besthits128.aac",
+        "favicon": "https://img.logo.dev/hitfm.md?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Hit FM Dance",
+        "url": "https://radio4.dixi.md/listen/hit_fm_dance_hits/hitfmdancehits128.aac",
+        "favicon": "https://img.logo.dev/hitfm.md?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Hit Fm Drive Mode",
+        "url": "https://radio7.dixi.md/listen/hit_fm_drive_mode/hitfmdrivemode128.aac",
+        "favicon": "https://img.logo.dev/hitfm.md?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Hit FM Hot Hits",
+        "url": "https://radio3.dixi.md/listen/hit_fm_hot_hits/hitfm_hothits128.aac",
+        "favicon": "https://img.logo.dev/hitfm.md?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Hit FM Summer Hits",
+        "url": "https://radio4.dixi.md/listen/hit_fm_summer_hits/hitfmsummerhits128.aac",
+        "favicon": "https://img.logo.dev/hitfm.md?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "HIT FM Русский Хит",
+        "url": "https://radio3.dixi.md/listen/hit_fm_russkoe_hitovoe/hitfm_ruhit128.aac",
+        "favicon": "https://img.logo.dev/hitfm.md?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "imago.fm",
+        "url": "http://109.233.192.78:8000/_a",
+        "favicon": "https://img.logo.dev/imago.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Jurnal Fm",
+        "url": "https://audio.jurnalfm.md/hq",
+        "favicon": "https://img.logo.dev/jurnalfm.md?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Kiss FM Chișinău",
+        "url": "https://dc.digi.live.kissfm.ro/kissfm.chisinau",
+        "favicon": "https://img.logo.dev/kissfm.md?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Kiss FM Moldova",
+        "url": "https://live.kissfm.md/kissfm.chisinau",
+        "favicon": "https://img.logo.dev/kissfm.md?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "LOVE PRO Dj Radio Chisinau",
+        "url": "http://live.prodjradio.net:8000/;",
+        "favicon": "https://img.logo.dev/prodjradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Love Radio Moldova",
+        "url": "http://37.233.41.76:8000/lovefm",
+        "favicon": "https://img.logo.dev/loveradio.md?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Master Class FM (MD)",
+        "url": "https://listen3.myradio24.com/master1",
+        "favicon": "https://img.logo.dev/listen3.myradio24.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Megapolis Fm",
+        "url": "https://megapolisfm.md:8443/886",
+        "favicon": "https://img.logo.dev/megapolisfm.md?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Megapolis FM Moldova",
+        "url": "https://megapolisfm.md:8443/886",
+        "favicon": "https://img.logo.dev/megapolisfm.md?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Muz FM Moldova",
+        "url": "https://live.muzfm.md/muzfm",
+        "favicon": "https://img.logo.dev/muzfm.md?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Ai Noștri",
+        "url": "https://s5.radio.co/sfd9f42d1d/listen",
+        "favicon": "https://img.logo.dev/ainostri.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Fresh MD",
+        "url": "https://stream-151.zeno.fm/ttofovumhg1vv?zs=3vmFlLhiROOIFik2GUoxgw",
+        "favicon": "https://img.logo.dev/stream-151.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Micul Samaritean",
+        "url": "https://s5.radio.co/sfff7b7e97/listen",
+        "favicon": "https://img.logo.dev/miculsamaritean.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Moldova",
+        "url": "https://www.radio.md/stream/radiomoldovanews",
+        "favicon": "https://img.logo.dev/radiomoldova.md?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Moldova Muzical",
+        "url": "http://radiolive.trm.md:8000/RM-muzical-256",
+        "favicon": "https://img.logo.dev/trm.md?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Moldova Tineret",
+        "url": "https://radiolive.trm.md:8001/hls_rmt/tineret.m3u8",
+        "favicon": "https://img.logo.dev/radiomoldova.md?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RADIO MUZFM",
+        "url": "https://live.muzfm.md//muzfmhd",
+        "favicon": "https://img.logo.dev/muzfm.md?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Noroc Moldova",
+        "url": "https://stream.noroc.tv/radionoroc_aac",
+        "favicon": "https://img.logo.dev/radionoroc.md?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Plai",
+        "url": "https://stream.radioplai.md/live",
+        "favicon": "https://img.logo.dev/radioplai.md?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Record Moldova",
+        "url": "http://212.56.220.74:8000/RecordMD",
+        "favicon": "https://img.logo.dev/radiorecord.md?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio RFI Moldova",
+        "url": "https://asculta.radiorfi.ro/live.mp3",
+        "favicon": "https://img.logo.dev/rfi.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio ROKS Moldova",
+        "url": "https://stream.dixi.md:9443/Roks",
+        "favicon": "https://img.logo.dev/radioroks.md?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Studentus",
+        "url": "http://radiolive.studentus.md:8000/live",
+        "favicon": "https://img.logo.dev/studentus.md?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio ZUM 1",
+        "url": "https://streams.radiozum.md/listen/zum1/ZUM1",
+        "favicon": "https://img.logo.dev/radiozum.md?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio ZUM 2",
+        "url": "https://streams.radiozum.md/listen/zum2/ZUM2",
+        "favicon": "https://img.logo.dev/radiozum.md?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio ZUM4",
+        "url": "https://streams.radiozum.md/listen/zum4/ZUM4",
+        "favicon": "https://img.logo.dev/radiozum.md?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Retro FM Moldova",
+        "url": "https://efir.retrofm.md:8000/retro",
+        "favicon": "https://img.logo.dev/retrofm.md?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Smile FM",
+        "url": "https://sonicssl.namehost.ro/8050/;",
+        "favicon": "https://img.logo.dev/smilefm.md?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "VibeFM",
+        "url": "https://stream.radio.co/s6a544f6c9/listen",
+        "favicon": "https://img.logo.dev/vibefm.md?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Первое радио в вашем мобильном",
+        "url": "https://cdn.cybercdn.live/Pervoia/Audio/icecast.audio",
+        "favicon": "https://img.logo.dev/891fm.co.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    }
+]

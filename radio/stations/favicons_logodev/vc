@@ -1,0 +1,17 @@
+[
+    {
+        "name": "BDS NICE RADIO SVG",
+        "url": "http://us1.carihost.com:8380/stream",
+        "favicon": "https://img.logo.dev/niceradio.info?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Reggae141",
+        "url": "http://hestia2.cdnstream.com/1301_128",
+        "favicon": "https://img.logo.dev/reggae141.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Star FM 98.3 & 104.7 Kingstown",
+        "url": "http://starradio.serverroom.net:6688/",
+        "favicon": "https://img.logo.dev/star983fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    }
+]

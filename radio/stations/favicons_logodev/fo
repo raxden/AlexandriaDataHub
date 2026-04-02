@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "FM1 88,7",
+        "url": "https://stream-secure.midlar.fo/fm1-128",
+        "favicon": "https://img.logo.dev/fm1.fo?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Kringvarp Føroya (KVF)",
+        "url": "http://netvarp.kringvarp.fo:443/uvhm",
+        "favicon": "https://img.logo.dev/kvf.fo?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "KVF - Tingvarp",
+        "url": "http://netvarp.kringvarp.fo:4443/tingvarp",
+        "favicon": "https://img.logo.dev/kvf.fo?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "KVF2",
+        "url": "http://netvarp.kringvarp.fo:4443/kvf2_2",
+        "favicon": "https://img.logo.dev/kringvarp.fo?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rás 2",
+        "url": "http://stream.midlar.fo/ras2",
+        "favicon": "https://img.logo.dev/midlar.fo?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "VoxPop",
+        "url": "http://stream.midlar.fo/voxpop",
+        "favicon": "https://img.logo.dev/midlar.fo?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    }
+]

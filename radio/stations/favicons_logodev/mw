@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Amaryllis E-Radio",
+        "url": "https://s4.radio.co/s40c05d6b1/low",
+        "favicon": "https://img.logo.dev/amaryllis-eradio.vercel.app?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Groove100 FM",
+        "url": "https://stream.zeno.fm/0r0xa792kwzuv",
+        "favicon": "https://img.logo.dev/groove100.mw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "MBC Radio 2FM",
+        "url": "http://radiostream.mbc.mw:86/broadwavehigh.mp3?src=1",
+        "favicon": "https://img.logo.dev/mbc.mw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Mdubs Entertainment",
+        "url": "https://stream.zeno.fm/ogxfqt7gumguv",
+        "favicon": "https://img.logo.dev/mdubsmusic.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Power Global Media",
+        "url": "https://a10.asurahosting.com:7270/radio.mp3",
+        "favicon": "https://img.logo.dev/powerglobalmedia.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RADIO MARIA MALAWI",
+        "url": "http://dreamsiteradiocp.com:8040/stream",
+        "favicon": "https://img.logo.dev/radiomaria.mw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Timveni Radio",
+        "url": "https://play.streamafrica.net/timveni",
+        "favicon": "https://img.logo.dev/mytuner-radio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "ZBS Zodiak FM",
+        "url": "https://ice31.securenetsystems.net/0079",
+        "favicon": "https://img.logo.dev/zodiakmalawi.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Hot 102.7FM",
+        "url": "https://edge.iono.fm/xice/57_medium.aac?ref=https%3A%2F%2Fhot1027.co.za%2F&adToken=",
+        "favicon": "https://img.logo.dev/hot1027.co.za?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Hot FM 87.7",
+        "url": "http://s2.yesstreaming.net:7091/stream?type=.mp3%2F%3Bstream.mp3&_=1",
+        "favicon": "https://img.logo.dev/hot877.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "One Love Radio",
+        "url": "https://usa11.fastcast4u.com/proxy/thidhzuy?mp=/1&1745660099290",
+        "favicon": "https://img.logo.dev/onelovezambia.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Christian Voice",
+        "url": "https://streaming.shoutcast.com/rcv",
+        "favicon": "https://img.logo.dev/rcv.co.zm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Sun Fm Zambia",
+        "url": "http://11233.cloudrad.io:9102/live",
+        "favicon": "https://img.logo.dev/zambia.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    }
+]

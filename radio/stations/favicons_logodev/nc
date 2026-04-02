@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "NIA Lo-Fi",
+        "url": "https://radio.nia.nc/radio/8020/lofi-hq-stream.aac?1734100301",
+        "favicon": "https://img.logo.dev/nia.nc?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "NIA Pacifique",
+        "url": "https://radio.nia.nc/radio/8000/pacific-hq-stream.aac?1734100041",
+        "favicon": "https://img.logo.dev/nia.nc?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "NIA Radio - Pacifique",
+        "url": "https://radio.nia.nc/radio/8000/pacific-hq-stream.aac",
+        "favicon": "https://img.logo.dev/nia.nc?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "NIA Radio Lo-Fi",
+        "url": "https://radio.nia.nc/radio/8020/lofi-hq-stream.aac",
+        "favicon": "https://img.logo.dev/nia.nc?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Nouvelle-Calédonie La Première",
+        "url": "https://nouvelle-caledonie.ice.infomaniak.ch/nouvelle-caledonie-128.mp3",
+        "favicon": "https://img.logo.dev/nouvellecaledonie.la1ere.fr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Djiido",
+        "url": "http://radiodjiido.nc:8002/",
+        "favicon": "https://img.logo.dev/radiodjiido.nc?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Paraiso",
+        "url": "http://stream-uk1.radioparadise.com/aac-320",
+        "favicon": "https://img.logo.dev/radioparadise.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Rythme Bleu",
+        "url": "https://webradio.lagoon.nc/rrb",
+        "favicon": "https://img.logo.dev/rrb.nc?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    }
+]
