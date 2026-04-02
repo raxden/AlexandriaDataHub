@@ -13,11 +13,13 @@ from datetime import datetime, timedelta
 from urllib.parse import urlparse
 
 # Logo.dev API token from environment variable
-LOGODEV_TOKEN = os.environ.get('LOGO_TOKEN')
+LOGODEV_TOKEN = os.environ.get('LOGO_TOKEN', '').strip()
 
 if not LOGODEV_TOKEN:
     print("Error: LOGO_TOKEN environment variable not set")
     sys.exit(1)
+
+print(f"✓ LOGO_TOKEN loaded (length: {len(LOGODEV_TOKEN)} chars)")
 
 def extract_domain(url):
     """Extract domain from URL."""
@@ -43,19 +45,39 @@ def generate_logodev_url(domain):
     
     return f"https://img.logo.dev/{domain}?token={LOGODEV_TOKEN}"
 
-def validate_url(url, timeout=5):
+def validate_url(url, timeout=5, verbose=False):
     """Validate if a URL is accessible and returns a valid response."""
     if not url or url.strip() == "":
+        if verbose:
+            print(f"    ⚠️  URL is empty")
         return False
     
     try:
         response = requests.head(url, timeout=timeout, allow_redirects=True)
-        return response.status_code < 400
-    except:
+        if response.status_code < 400:
+            if verbose:
+                print(f"    ✓ HEAD request successful (status {response.status_code})")
+            return True
+        else:
+            if verbose:
+                print(f"    ❌ HEAD request failed with status {response.status_code}")
+            return False
+    except Exception as e:
+        if verbose:
+            print(f"    ⚠️  HEAD request failed ({type(e).__name__}), trying GET...")
         try:
             response = requests.get(url, timeout=timeout, allow_redirects=True, stream=True)
-            return response.status_code < 400
-        except:
+            if response.status_code < 400:
+                if verbose:
+                    print(f"    ✓ GET request successful (status {response.status_code})")
+                return True
+            else:
+                if verbose:
+                    print(f"    ❌ GET request failed with status {response.status_code}")
+                return False
+        except Exception as e2:
+            if verbose:
+                print(f"    ❌ GET request failed: {type(e2).__name__}")
             return False
 
 def process_station(station):
@@ -82,8 +104,8 @@ def process_station(station):
             favicon_url = generate_logodev_url(domain)
             
             # Validate the generated URL
-            print(f"  → Validating logo.dev URL: {favicon_url}")
-            if validate_url(favicon_url):
+            print(f"  → Validating logo.dev URL")
+            if validate_url(favicon_url, verbose=True):
                 result['favicon'] = favicon_url
                 print(f"  ✓ Generated valid favicon: {favicon_url}")
                 return result
@@ -99,7 +121,7 @@ def process_station(station):
             print(f"  → Trying stream domain: {domain}")
             favicon_url = generate_logodev_url(domain)
             
-            if validate_url(favicon_url):
+            if validate_url(favicon_url, verbose=True):
                 result['favicon'] = favicon_url
                 print(f"  ✓ Generated valid favicon from stream domain: {favicon_url}")
                 return result
