@@ -43,7 +43,7 @@ def generate_logodev_url(domain):
     if not domain:
         return None
     
-    return f"https://img.logo.dev/{domain}?token={LOGODEV_TOKEN}"
+    return f"https://img.logo.dev/{domain}?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
 
 def validate_url(url, timeout=5, verbose=False):
     """Validate if a URL is accessible and returns a valid response."""
