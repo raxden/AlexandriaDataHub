@@ -13,7 +13,7 @@ from typing import Tuple, List, Union
 import sys
 
 # Importar los scrapers
-from scrapers import euribordiario, euribor_com_es, expansion
+from scrapers import euribordiario, euribor_com_es, expansion, helpmycash
 
 
 def fetch_all_sources() -> List[Tuple[str, Union[float, str], str, bool]]:
@@ -30,7 +30,8 @@ def fetch_all_sources() -> List[Tuple[str, Union[float, str], str, bool]]:
     sources = [
         euribordiario.fetch,
         euribor_com_es.fetch,
-        expansion.fetch
+        expansion.fetch,
+        helpmycash.fetch
     ]
     
     for fetch_func in sources:
@@ -55,7 +56,7 @@ def update_euribor_data(date: str, value: float) -> bool:
     try:
         # Determinar la ruta del archivo
         script_dir = Path(__file__).parent
-        project_root = script_dir.parent.parent
+        project_root = script_dir.parent.parent.parent
         data_file = project_root / 'euribor' / 'data'
         
         print(f"\nActualizando archivo: {data_file}")
@@ -127,7 +128,7 @@ def update_euribor_report(date: str, sources: List[Tuple[str, Union[float, str],
     try:
         # Determinar la ruta del archivo
         script_dir = Path(__file__).parent
-        project_root = script_dir.parent.parent
+        project_root = script_dir.parent.parent.parent
         report_file = project_root / 'euribor' / 'report'
         
         print(f"\nActualizando archivo: {report_file}")

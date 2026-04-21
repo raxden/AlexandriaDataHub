@@ -15,6 +15,10 @@
         {
           "name": "expansion.com",
           "value": 2.655
+        },
+        {
+          "name": "helpmycash.com",
+          "error": "El contenido se carga dinámicamente con JavaScript"
         }
       ]
     },

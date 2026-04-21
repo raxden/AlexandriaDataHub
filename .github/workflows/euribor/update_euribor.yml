@@ -30,7 +30,7 @@ jobs:
       
       - name: Run daily Euribor scraper
         run: |
-          python .github/scripts/fetch_daily_euribor.py
+          python .github/scripts/euribor/fetch_daily_euribor.py
       
       - name: Check for changes
         id: git-check
